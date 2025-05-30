@@ -603,11 +603,12 @@
       "minecraft:beach": "2025-05-30 22:27:25 +0000",
       "minecraft:forest": "2025-05-30 00:34:26 +0000",
       "minecraft:taiga": "2025-05-30 01:26:46 +0000",
-      "minecraft:windswept_forest": "2025-05-29 23:58:25 +0000",
-      "minecraft:jungle": "2025-05-29 23:19:02 +0000",
       "minecraft:river": "2025-05-29 23:16:45 +0000",
-      "minecraft:birch_forest": "2025-05-30 22:56:48 +0000",
       "minecraft:lush_caves": "2025-05-30 00:15:56 +0000",
+      "minecraft:windswept_forest": "2025-05-29 23:58:25 +0000",
+      "minecraft:deep_dark": "2025-05-30 23:31:22 +0000",
+      "minecraft:jungle": "2025-05-29 23:19:02 +0000",
+      "minecraft:birch_forest": "2025-05-30 22:56:48 +0000",
       "minecraft:windswept_hills": "2025-05-30 01:26:37 +0000",
       "minecraft:windswept_savanna": "2025-05-30 22:41:44 +0000",
       "minecraft:jagged_peaks": "2025-05-30 23:21:48 +0000"
@@ -1778,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_large": {
     "criteria": {
       "has_medium_backpack": "2025-05-30 22:34:20 +0000"
@@ -1793,6 +1800,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
     },
     "done": true
   },
@@ -1847,6 +1860,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-30 23:48:50 +0000"
     },
     "done": true
   },
@@ -1934,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-30 23:04:16 +0000"
@@ -1973,6 +1998,12 @@
   "waystones:recipes/decorations/warp_dust": {
     "criteria": {
       "has_ender_pearl": "2025-05-30 22:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
     },
     "done": true
   },
@@ -2084,6 +2115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-30 23:05:53 +0000"
@@ -2108,9 +2145,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-05-30 23:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:43:06 +0000"
     },
     "done": true
   },
@@ -2141,6 +2190,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-30 23:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-30 23:54:35 +0000"
     },
     "done": true
   },
@@ -2186,6 +2241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2025-05-30 22:45:32 +0000"
@@ -2210,6 +2271,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2025-05-30 22:31:54 +0000"
@@ -2231,6 +2304,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-30 22:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
     },
     "done": true
   },

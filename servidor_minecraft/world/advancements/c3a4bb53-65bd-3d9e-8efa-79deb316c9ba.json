@@ -566,11 +566,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-05-30 23:52:35 +0000",
       "minecraft:skeleton": "2025-05-29 23:31:09 +0000",
+      "minecraft:breeze": "2025-05-30 23:29:02 +0000",
       "minecraft:enderman": "2025-05-30 22:37:48 +0000",
+      "minecraft:silverfish": "2025-05-30 23:32:11 +0000",
+      "minecraft:stray": "2025-05-30 23:28:53 +0000",
       "minecraft:spider": "2025-05-30 00:30:11 +0000",
       "minecraft:zombie": "2025-05-29 23:27:32 +0000",
-      "minecraft:creeper": "2025-05-30 00:32:02 +0000"
+      "minecraft:creeper": "2025-05-30 00:32:02 +0000",
+      "minecraft:husk": "2025-05-30 23:41:31 +0000"
     },
     "done": false
   },
@@ -2281,6 +2286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-30 23:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-30 23:19:44 +0000"
@@ -2290,6 +2301,12 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-05-30 23:21:29 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_holy_wand": {
+    "criteria": {
+      "has_holy_wand": "2025-05-30 23:30:57 +0000"
     },
     "done": true
   },
@@ -2347,6 +2364,12 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_holy_wand": {
+    "criteria": {
+      "has_netherite_holy_wand": "2025-05-30 23:34:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-30 22:26:44 +0000"
@@ -2362,6 +2385,12 @@
   "waystones:recipes/decorations/return_scroll": {
     "criteria": {
       "has_paper": "2025-05-30 22:57:28 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_holy_wand": {
+    "criteria": {
+      "has_netherite_holy_wand": "2025-05-30 23:34:25 +0000"
     },
     "done": true
   },
@@ -2407,6 +2436,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/blaze_powder_from_smelting_fire_robe_head": {
+    "criteria": {
+      "has_fire_robe_head": "2025-05-30 23:30:38 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_medium": {
     "criteria": {
       "has_small_backpack": "2025-05-30 22:39:10 +0000"
@@ -2419,9 +2454,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-30 23:26:12 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_smelting_priest_robe_head": {
+    "criteria": {
+      "has_priest_robe_head": "2025-05-30 23:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-30 23:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-05-30 23:30:14 +0000"
     },
     "done": true
   },
@@ -2431,15 +2484,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-05-30 23:34:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 23:10:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-30 23:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/iron_nugget_from_blasting_heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-05-30 23:34:28 +0000"
     },
     "done": true
   },
@@ -2452,6 +2523,12 @@
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-30 23:19:44 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/blaze_powder_from_blasting_fire_robe_head": {
+    "criteria": {
+      "has_fire_robe_head": "2025-05-30 23:30:38 +0000"
     },
     "done": true
   },
@@ -2515,6 +2592,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/prismarine_shard_from_blasting_frost_robe_head": {
+    "criteria": {
+      "has_frost_robe_head": "2025-05-30 23:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-30 23:19:44 +0000"
@@ -2524,6 +2607,12 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-30 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-30 23:29:03 +0000"
     },
     "done": true
   },
@@ -2560,6 +2649,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-30 23:26:12 +0000"
     },
     "done": true
   },
@@ -2605,6 +2700,18 @@
     },
     "done": true
   },
+  "archers:recipes/misc/iron_nugget_from_smelting_heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-05-30 23:34:28 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_feet": {
+    "criteria": {
+      "has_wizard_robe_feet": "2025-05-30 23:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-30 23:03:50 +0000"
@@ -2629,9 +2736,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-05-30 23:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2025-05-30 23:21:29 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/prismarine_shard_from_smelting_frost_robe_head": {
+    "criteria": {
+      "has_frost_robe_head": "2025-05-30 23:50:16 +0000"
     },
     "done": true
   },
@@ -2701,6 +2820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-30 23:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-30 22:34:25 +0000"
@@ -2749,9 +2874,33 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/netherite_scrap_from_smelting_netherite_kite_shield": {
+    "criteria": {
+      "has_netherite_kite_shield": "2025-05-30 23:55:40 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_blasting_archer_armor_legs": {
+    "criteria": {
+      "has_archer_armor_legs": "2025-05-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_feet": {
+    "criteria": {
+      "has_wizard_robe_feet": "2025-05-30 23:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-30 22:26:44 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_kite_shield": {
+    "criteria": {
+      "has_netherite_kite_shield": "2025-05-30 23:55:40 +0000"
     },
     "done": true
   },
@@ -2809,9 +2958,27 @@
     },
     "done": true
   },
+  "archers:recipes/misc/leather_from_smelting_archer_armor_legs": {
+    "criteria": {
+      "has_archer_armor_legs": "2025-05-30 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-30 23:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-30 23:19:07 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/netherite_scrap_from_smelting_netherite_spear": {
+    "criteria": {
+      "has_netherite_spear": "2025-05-30 23:54:26 +0000"
     },
     "done": true
   },
@@ -2881,9 +3048,21 @@
     },
     "done": true
   },
+  "archers:recipes/misc/netherite_scrap_from_blasting_netherite_spear": {
+    "criteria": {
+      "has_netherite_spear": "2025-05-30 23:54:26 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/blank_scroll": {
     "criteria": {
       "has_paper": "2025-05-30 22:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-30 23:26:12 +0000"
     },
     "done": true
   },
@@ -2935,6 +3114,18 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/gold_nugget_from_smelting_holy_wand": {
+    "criteria": {
+      "has_holy_wand": "2025-05-30 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_blasting_priest_robe_head": {
+    "criteria": {
+      "has_priest_robe_head": "2025-05-30 23:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-05-30 23:21:29 +0000"
@@ -2974,6 +3165,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 23:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-30 23:26:40 +0000"
     },
     "done": true
   },
