@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "c3a4bb53-65bd-3d9e-8efa-79deb316c9ba",
+    "name": "LORDTECA",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "adb6829f-9714-30ea-aba8-a17d74198fbc",
     "name": "farid_xd123",
     "level": 4,
