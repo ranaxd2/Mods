@@ -1797,6 +1797,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-05-30 22:44:39 +0000"
@@ -1911,6 +1917,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_item": {
     "criteria": {
       "has_small_backpack": "2025-05-30 22:31:54 +0000"
@@ -1959,6 +1971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-30 23:04:16 +0000"
@@ -1971,9 +1989,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
     },
     "done": true
   },
@@ -2115,9 +2145,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 23:59:36 +0000"
     },
     "done": true
   },
@@ -2145,9 +2187,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
     },
     "done": true
   },
@@ -2205,9 +2259,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-05-30 22:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
     },
     "done": true
   },
@@ -2286,6 +2352,12 @@
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2025-05-30 22:31:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
     },
     "done": true
   },

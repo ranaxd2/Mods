@@ -378,7 +378,8 @@
       "rotten_flesh": "2025-05-29 23:30:01 +0000",
       "cooked_mutton": "2025-05-29 23:19:35 +0000",
       "cooked_beef": "2025-05-30 23:34:38 +0000",
-      "baked_potato": "2025-05-30 23:28:50 +0000"
+      "baked_potato": "2025-05-30 23:28:50 +0000",
+      "golden_carrot": "2025-05-31 00:07:15 +0000"
     },
     "done": false
   },
@@ -2139,6 +2140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 23:06:37 +0000"
@@ -2163,6 +2170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-31 00:06:52 +0000"
+    },
+    "done": true
+  },
   "archers:recipes/misc/flint_from_smelting_flint_spear": {
     "criteria": {
       "has_flint_spear": "2025-05-30 23:26:43 +0000"
@@ -2172,6 +2185,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-30 23:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-31 00:17:44 +0000"
     },
     "done": true
   },
@@ -2214,6 +2233,18 @@
   "paladins:recipes/misc/iron_nugget_from_smelting_priest_robe_head": {
     "criteria": {
       "has_priest_robe_head": "2025-05-30 23:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-31 00:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
     },
     "done": true
   },
@@ -2265,6 +2296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-31 00:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 23:06:37 +0000"
@@ -2301,9 +2338,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_item": {
     "criteria": {
       "has_small_backpack": "2025-05-30 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
     },
     "done": true
   },
@@ -2361,9 +2416,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 22:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 00:05:45 +0000"
     },
     "done": true
   },
@@ -2415,6 +2482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-30 23:17:19 +0000"
@@ -2436,6 +2509,18 @@
   "archers:recipes/misc/gold_nugget_from_blasting_golden_spear": {
     "criteria": {
       "has_golden_spear": "2025-05-30 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 00:05:45 +0000"
     },
     "done": true
   },
@@ -2499,6 +2584,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-05-30 23:17:19 +0000"
@@ -2526,6 +2629,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-30 23:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
     },
     "done": true
   },
@@ -2583,6 +2692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 00:05:45 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/netherite_scrap_from_blasting_netherite_kite_shield": {
     "criteria": {
       "has_netherite_kite_shield": "2025-05-30 23:55:15 +0000"
@@ -2598,6 +2713,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs": {
     "criteria": {
       "has_tuff_bricks": "2025-05-30 23:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
     },
     "done": true
   },
@@ -2625,6 +2746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-30 23:10:55 +0000"
@@ -2640,6 +2767,18 @@
   "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
       "has_wool": "2025-05-30 22:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
     },
     "done": true
   },
@@ -2679,6 +2818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-05-30 23:45:02 +0000"
@@ -2715,6 +2860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 00:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-05-30 23:17:19 +0000"
@@ -2730,6 +2881,12 @@
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2025-05-30 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 00:02:45 +0000"
     },
     "done": true
   },
@@ -2784,6 +2941,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-31 00:08:00 +0000"
     },
     "done": true
   },

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-30 23:58:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 23:37:40 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-30 22:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-30 23:58:34 +0000"
     },
     "done": true
   },
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-05-30 23:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-05-30 23:08:35 +0000"
@@ -239,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-30 23:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-30 23:54:11 +0000"
@@ -287,6 +311,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2025-05-30 23:59:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-05-30 23:13:07 +0000"
@@ -296,6 +326,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-30 22:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-30 23:58:31 +0000"
     },
     "done": true
   },
@@ -314,6 +350,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 23:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-30 23:58:34 +0000"
     },
     "done": true
   },
@@ -344,6 +386,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-30 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-30 23:58:29 +0000"
     },
     "done": true
   },
@@ -449,6 +497,12 @@
     },
     "done": false
   },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-05-30 23:59:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-30 23:08:35 +0000"
@@ -464,6 +518,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-30 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-30 23:58:29 +0000"
     },
     "done": true
   },
@@ -509,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-30 23:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-30 22:53:35 +0000"
@@ -518,6 +584,12 @@
   "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-30 23:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-30 23:58:34 +0000"
     },
     "done": true
   },
@@ -554,6 +626,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 23:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 23:58:31 +0000"
     },
     "done": true
   },
@@ -797,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 23:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-30 23:22:16 +0000"
@@ -845,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-30 23:58:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 23:26:43 +0000"
@@ -878,6 +968,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-30 22:50:29 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2025-05-30 23:58:31 +0000"
     },
     "done": true
   },
@@ -920,6 +1016,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-30 23:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-30 23:58:29 +0000"
     },
     "done": true
   },
@@ -983,6 +1085,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2025-05-30 23:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-30 23:08:35 +0000"
@@ -1022,6 +1130,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-30 22:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-30 23:58:34 +0000"
     },
     "done": true
   },
@@ -1067,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-30 23:58:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-30 22:50:43 +0000"
@@ -1081,6 +1201,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-30 23:58:05 +0000",
       "chicken": "2025-05-30 23:22:58 +0000",
       "cooked_beef": "2025-05-30 23:55:10 +0000"
     },
@@ -1095,6 +1216,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 23:03:27 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2025-05-30 23:59:03 +0000"
     },
     "done": true
   },
@@ -1125,6 +1252,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-30 22:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-30 23:58:29 +0000"
     },
     "done": true
   },
