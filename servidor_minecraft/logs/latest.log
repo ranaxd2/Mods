@@ -377,3 +377,248 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [14:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5549ms or 110 ticks behind
 [14:55:41] [Server thread/INFO]: Ph8l1femo[/127.242.48.104:34739] logged in with entity id 4 at (-1503.699999988079, 57.0, 631.2268994163944)
 [14:55:41] [Server thread/INFO]: Ph8l1femo joined the game
+[14:58:54] [Server thread/INFO]: zTJonDMiel[/127.191.74.105:60301] logged in with entity id 790 at (-749.5034323566371, 56.0, -417.81281778430423)
+[14:58:54] [Server thread/INFO]: zTJonDMiel joined the game
+[15:05:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e585106[id=2f7d6070-c7ec-35c5-9ecb-efe840b6e069,name=GHOST,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[15:05:21] [Server thread/WARN]: handleDisconnection() called twice
+[15:05:21] [Server thread/WARN]: handleDisconnection() called twice
+[15:05:21] [Server thread/WARN]: handleDisconnection() called twice
+[15:05:21] [Server thread/WARN]: handleDisconnection() called twice
+[15:06:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fc91cf0[id=2f7d6070-c7ec-35c5-9ecb-efe840b6e069,name=GHOST,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[15:06:46] [Server thread/WARN]: handleDisconnection() called twice
+[15:06:46] [Server thread/WARN]: handleDisconnection() called twice
+[15:06:46] [Server thread/WARN]: handleDisconnection() called twice
+[15:06:47] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@16556f5e[id=2f7d6070-c7ec-35c5-9ecb-efe840b6e069,name=GHOST,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[15:10:25] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:25] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:25] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:25] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@5352113d[id=2f7d6070-c7ec-35c5-9ecb-efe840b6e069,name=GHOST,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[15:10:47] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:47] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:47] [Server thread/WARN]: handleDisconnection() called twice
+[15:10:47] [Server thread/WARN]: handleDisconnection() called twice
+[15:11:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@50ec9662[id=2f7d6070-c7ec-35c5-9ecb-efe840b6e069,name=GHOST,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[15:11:14] [Server thread/WARN]: handleDisconnection() called twice
+[15:11:14] [Server thread/WARN]: handleDisconnection() called twice
+[15:11:14] [Server thread/WARN]: handleDisconnection() called twice
+[15:11:14] [Server thread/WARN]: handleDisconnection() called twice
+[15:13:10] [Server thread/INFO]: zTJonDMiel has made the advancement [Sneak 100]
+[15:15:17] [Server thread/INFO]: zTJonDMiel has completed the challenge [It Spreads]
+[15:16:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@150c27fa[id=2f7d6070-c7ec-35c5-9ecb-efe840b6e069,name=GHOST,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[15:16:39] [Server thread/WARN]: handleDisconnection() called twice
+[15:16:39] [Server thread/WARN]: handleDisconnection() called twice
+[15:16:39] [Server thread/WARN]: handleDisconnection() called twice
+[15:16:39] [Server thread/WARN]: handleDisconnection() called twice
+[15:19:36] [Server thread/INFO]: zTJonDMiel has made the advancement [Not Today, Thank You]
+[15:26:05] [Server thread/INFO]: LORDTECA[/127.96.75.250:34037] logged in with entity id 9755 at (-1824.7406938244403, 76.5625, -2545.475500956356)
+[15:26:05] [Server thread/INFO]: LORDTECA joined the game
+[15:26:20] [Server thread/INFO]: [Not Secure] <LORDTECA> oe nero
+[15:26:23] [Server thread/INFO]: [Not Secure] <LORDTECA> quieres llamada?
+[15:34:55] [Server thread/INFO]: LORDTECA has made the advancement [Magic Attunement]
+[15:37:00] [Server thread/INFO]: [Not Secure] <LORDTECA> creare los eventos
+[15:37:03] [Server thread/INFO]: [Not Secure] <LORDTECA> oe jherry
+[15:37:08] [Server thread/INFO]: [Not Secure] <LORDTECA> unete a la comunidad
+[15:37:15] [Server thread/INFO]: [Not Secure] <LORDTECA> esta el link en el whatsap
+[15:37:26] [Server thread/INFO]: [Not Secure] <Ph8l1femo> reenvialo
+[15:38:14] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[15:39:23] [Server thread/INFO]: LORDTECA has completed the challenge [Mind Mastery]
+[15:40:35] [Server thread/INFO]: You whisper to LORDTECA: cuidadito con hacer trampa ctm 
+[15:40:43] [Server thread/INFO]: [Not Secure] <LORDTECA> si farid
+[15:40:54] [Server thread/INFO]: [Not Secure] <LORDTECA> estoy creando los eventos
+[15:40:59] [Server thread/INFO]: [Not Secure] <LORDTECA> estoy en llamada con lenin
+[15:41:02] [Server thread/INFO]: [Not Secure] <LORDTECA> y tejon
+[15:41:04] [Server thread/INFO]: [Not Secure] <LORDTECA> preguntales
+[15:41:16] [Server thread/INFO]: [Not Secure] [Server] :V
+[15:41:44] [Server thread/INFO]: [Not Secure] <LORDTECA> oe farid
+[15:41:47] [Server thread/INFO]: [Not Secure] <LORDTECA> no puedo hacer tp
+[15:42:33] [Server thread/INFO]: Ph8l1femo has made the advancement [Sweet Dreams]
+[15:42:51] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
+[15:43:14] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[15:44:01] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
+[15:44:22] [Server thread/INFO]: [Not Secure] <LORDTECA> que buenos mods farid
+[15:44:27] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to Ph8l1femo]
+[15:44:46] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[15:44:52] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[15:45:19] [Server thread/INFO]: LORDTECA was killed
+[15:45:19] [Server thread/INFO]: [LORDTECA: Killed LORDTECA]
+[15:45:32] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[15:46:52] [Server thread/INFO]: Ph8l1femo has made the advancement [What a Deal!]
+[16:04:09] [Server thread/INFO]: Villager class_1646['Villager'/23651, l='ServerLevel[world]', x=-1927.30, y=191.00, z=578.70] died, message: 'Villager was slain by Zombie'
+[16:04:16] [Server thread/INFO]: Villager class_1646['Villager'/23652, l='ServerLevel[world]', x=-1927.50, y=191.00, z=578.70] died, message: 'Villager was slain by Zombie'
+[16:09:05] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[16:09:11] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to Ph8l1femo]
+[16:10:57] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
+[16:11:18] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to Ph8l1femo]
+[16:11:56] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=5, y=-58, z=99}
+[16:11:56] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=5, y=-58, z=98}
+[16:11:56] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=5, y=-58, z=97}
+[16:11:59] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=644, y=163, z=-22}
+[16:12:43] [Server thread/INFO]: zTJonDMiel lost connection: Disconnected
+[16:12:43] [Server thread/INFO]: zTJonDMiel left the game
+[16:13:21] [Server thread/INFO]: Villager class_1646['Villager'/24642, l='ServerLevel[world]', x=-1974.50, y=224.00, z=542.30] died, message: 'Villager froze to death'
+[16:14:18] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[16:14:47] [Server thread/INFO]: Ph8l1femo has made the advancement [The Parrots and the Bats]
+[16:15:42] [Server thread/INFO]: zTJonDMiel[/127.191.74.105:36613] logged in with entity id 32177 at (-713.2637463243998, -46.0, -322.82349345439184)
+[16:15:42] [Server thread/INFO]: zTJonDMiel joined the game
+[16:16:24] [Server thread/INFO]: Villager class_1646['Butcher'/23644, l='ServerLevel[world]', x=-1940.50, y=202.00, z=553.70] died, message: 'Butcher froze to death'
+[16:17:22] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[16:17:35] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[16:18:47] [Server thread/INFO]: Ph8l1femo has made the advancement [Crops of the Wild]
+[16:22:33] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=28}
+[16:22:33] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=27}
+[16:22:33] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=26}
+[16:23:14] [Server thread/INFO]: LORDTECA has made the advancement [Hot Stuff]
+[16:23:20] [Server thread/INFO]: zTJonDMiel lost connection: Disconnected
+[16:23:20] [Server thread/INFO]: zTJonDMiel left the game
+[16:25:15] [Server thread/INFO]: Ph8l1femo has reached the goal [Choose your path]
+[16:27:53] [Server thread/INFO]: zTJonDMiel[/127.191.74.105:48639] logged in with entity id 39010 at (-762.9828315961416, -47.0, -320.8226178683705)
+[16:27:53] [Server thread/INFO]: zTJonDMiel joined the game
+[16:29:51] [Server thread/INFO]: [Not Secure] <Ph8l1femo> layse
+[16:29:54] [Server thread/INFO]: [Not Secure] <LORDTECA> q
+[16:30:08] [Server thread/INFO]: [Not Secure] <Ph8l1femo> pa q sirven las runas?
+[16:30:34] [Server thread/INFO]: [Not Secure] <LORDTECA> sirven como flechas
+[16:30:40] [Server thread/INFO]: [Not Secure] <LORDTECA> es para lanzar echizos
+[16:30:45] [Server thread/INFO]: [Not Secure] <Ph8l1femo> a
+[16:30:50] [Server thread/INFO]: [Not Secure] <LORDTECA> digamos un baston de fuego consume runas de fuego
+[16:30:58] [Server thread/INFO]: [Not Secure] <LORDTECA> como un arco y flehcas xd
+[16:31:02] [Server thread/INFO]: [Not Secure] <Ph8l1femo> aa yaya
+[16:31:05] [Server thread/INFO]: [Not Secure] <LORDTECA> aparte sirve para craftear
+[16:31:21] [Server thread/INFO]: GHOST[/127.243.98.80:35421] logged in with entity id 41135 at (5.5, 137.0, -33.5)
+[16:31:21] [Server thread/INFO]: GHOST joined the game
+[16:31:37] [Server thread/INFO]: LORDTECA lost connection: Disconnected
+[16:31:37] [Server thread/INFO]: LORDTECA left the game
+[16:31:46] [Server thread/INFO]: LORDTECA[/127.96.75.250:41685] logged in with entity id 41501 at (-1326.699999988079, 70.0, -287.124421332101)
+[16:31:46] [Server thread/INFO]: LORDTECA joined the game
+[16:33:07] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[16:33:11] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to GHOST]
+[16:33:16] [Server thread/INFO]: [Not Secure] <LORDTECA> oe eres tu
+[16:33:17] [Server thread/INFO]: [Not Secure] <GHOST> ja
+[16:33:19] [Server thread/INFO]: [Not Secure] <LORDTECA> amable?
+[16:33:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-13, y=136, z=-29}
+[16:33:25] [Server thread/INFO]: [Not Secure] <GHOST> se
+[16:33:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-13, y=135, z=-29}
+[16:33:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-13, y=136, z=-29}
+[16:33:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-13, y=135, z=-29}
+[16:33:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-13, y=136, z=-29}
+[16:33:36] [Server thread/INFO]: [Not Secure] <LORDTECA> ya bueno ve farmeando
+[16:34:05] [Server thread/INFO]: [Not Secure] <LORDTECA> ya termino de hacer los airdrops
+[16:34:43] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[16:36:04] [Server thread/INFO]: GHOST has made the advancement [Stone Age]
+[16:36:16] [Server thread/INFO]: [Not Secure] <LORDTECA> oe diego
+[16:36:22] [Server thread/INFO]: [Not Secure] <LORDTECA> activa el waypoint
+[16:36:22] [Server thread/INFO]: [Not Secure] <GHOST> ladra
+[16:36:26] [Server thread/INFO]: [Not Secure] <LORDTECA> en el spawn
+[16:36:28] [Server thread/INFO]: [Not Secure] <GHOST> como
+[16:36:36] [Server thread/INFO]: [Not Secure] <LORDTECA> dirigite al spawn
+[16:37:00] [Server thread/INFO]: GHOST was killed
+[16:37:00] [Server thread/INFO]: [LORDTECA: Killed GHOST]
+[16:37:07] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to GHOST]
+[16:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=140, z=-35}
+[16:37:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=140, z=-35}
+[16:37:25] [Server thread/INFO]: [Not Secure] <LORDTECA> anti click
+[16:37:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=141, z=-35}
+[16:37:34] [Server thread/INFO]: [Not Secure] <LORDTECA> no deja?
+[16:37:40] [Server thread/INFO]: [Not Secure] <GHOST> idk
+[16:38:19] [Server thread/INFO]: [Not Secure] <GHOST> y mi piedra
+[16:38:34] [Server thread/INFO]: [Not Secure] <LORDTECA> activalo
+[16:38:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=132, z=-21}
+[16:38:45] [Server thread/INFO]: [Not Secure] <LORDTECA> ya esta?
+[16:39:05] [Server thread/INFO]: GHOST has made the advancement [Monster Hunter]
+[16:39:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=135, z=-20}
+[16:39:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=135, z=-20}
+[16:39:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=135, z=-21}
+[16:39:35] [Server thread/INFO]: LORDTECA has reached the goal [Hired Help]
+[16:39:35] [Server thread/INFO]: GHOST has reached the goal [Hired Help]
+[16:40:21] [Server thread/INFO]: [Not Secure] <LORDTECA> ya lo activaste?
+[16:40:28] [Server thread/INFO]: [Not Secure] <GHOST> se
+[16:40:34] [Server thread/INFO]: [Not Secure] <GHOST> pa que es
+[16:40:38] [Server thread/INFO]: [Not Secure] <LORDTECA> para hacer tp
+[16:40:44] [Server thread/INFO]: [Not Secure] <GHOST> aa
+[16:40:45] [Server thread/INFO]: [LORDTECA: Teleported GHOST to LORDTECA]
+[16:40:59] [Server thread/INFO]: [Not Secure] <LORDTECA> mira
+[16:41:26] [Server thread/INFO]: [Not Secure] <GHOST> mi mesaa
+[16:41:58] [Server thread/INFO]: [Not Secure] <GHOST> thx
+[16:42:46] [Server thread/INFO]: GHOST has made the advancement [Getting an Upgrade]
+[16:43:41] [Server thread/INFO]: GHOST was blown up by Creeper
+[16:43:41] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16:43:41] [Server thread/ERROR]: Combo count: 0 is dual wielding: false
+[16:43:41] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[16:43:41] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[16:43:41] [Server thread/ERROR]: Selected slot server: 1 | client: 1
+[16:44:04] [Server thread/INFO]: [Not Secure] <GHOST> donde
+[16:44:58] [Server thread/INFO]: GHOST was blown up by Creeper
+[16:45:03] [Server thread/INFO]: [Not Secure] <GHOST> tamare
+[16:45:57] [Server thread/WARN]: Horse (vehicle of Ph8l1femo) moved wrongly! 0.30866466008181703
+[16:45:57] [Server thread/WARN]: Horse (vehicle of Ph8l1femo) moved wrongly! 0.7475323293880791
+[16:45:57] [Server thread/WARN]: Horse (vehicle of Ph8l1femo) moved wrongly! 1.1864086770924018
+[16:45:57] [Server thread/WARN]: Horse (vehicle of Ph8l1femo) moved wrongly! 1.6252896684344904
+[16:46:55] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=644, y=163, z=-8}
+[16:47:34] [Server thread/INFO]: [LORDTECA: Teleported GHOST to LORDTECA]
+[16:47:42] [Server thread/INFO]: [Not Secure] <GHOST> hjpt
+[16:47:49] [Server thread/INFO]: [Not Secure] <GHOST> mi barco
+[16:48:07] [Server thread/INFO]: [Not Secure] <GHOST> tss
+[16:48:13] [Server thread/INFO]: Villager class_1646['Villager'/54079, l='ServerLevel[world]', x=-1817.30, y=176.63, z=-555.50] died, message: 'Villager froze to death'
+[16:48:19] [Server thread/INFO]: Villager class_1646['Villager'/54504, l='ServerLevel[world]', x=-1868.70, y=178.16, z=-529.50] died, message: 'Villager froze to death'
+[16:48:26] [Server thread/INFO]: Villager class_1646['Villager'/54291, l='ServerLevel[world]', x=-1838.50, y=178.16, z=-557.70] died, message: 'Villager froze to death'
+[16:48:34] [Server thread/INFO]: Villager class_1646['Cartographer'/54290, l='ServerLevel[world]', x=-1852.50, y=175.00, z=-557.70] died, message: 'Cartographer froze to death'
+[16:48:38] [Server thread/INFO]: Villager class_1646['Armorer'/54506, l='ServerLevel[world]', x=-1844.50, y=178.00, z=-556.70] died, message: 'Armorer froze to death'
+[16:48:55] [Server thread/INFO]: Villager class_1646['Cartographer'/54080, l='ServerLevel[world]', x=-1810.50, y=175.00, z=-463.45] died, message: 'Cartographer froze to death'
+[16:49:32] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[16:49:43] [Server thread/INFO]: Villager class_1646['Mason'/54081, l='ServerLevel[world]', x=-1810.49, y=175.00, z=-461.50] died, message: 'Mason froze to death'
+[16:49:52] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[16:50:11] [Server thread/INFO]: Villager class_1646['Nitwit'/54675, l='ServerLevel[world]', x=-1851.50, y=175.00, z=-557.70] died, message: 'Nitwit froze to death'
+[16:50:20] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to GHOST]
+[16:50:43] [Server thread/INFO]: [LORDTECA: Teleported GHOST to LORDTECA]
+[16:51:34] [Server thread/INFO]: Villager class_1646['Villager'/54283, l='ServerLevel[world]', x=-1811.15, y=175.00, z=-554.33] died, message: 'Villager froze to death'
+[16:51:35] [Server thread/INFO]: Villager class_1646['Villager'/54073, l='ServerLevel[world]', x=-1812.48, y=175.00, z=-554.50] died, message: 'Villager froze to death'
+[16:51:46] [Server thread/INFO]: Villager class_1646['Villager'/54287, l='ServerLevel[world]', x=-1811.15, y=175.51, z=-554.50] died, message: 'Villager froze to death'
+[16:52:08] [Server thread/INFO]: Villager class_1646['Fletcher'/54507, l='ServerLevel[world]', x=-1853.50, y=175.00, z=-557.70] died, message: 'Fletcher froze to death'
+[16:52:23] [Server thread/INFO]: GHOST lost connection: Timed out
+[16:52:23] [Server thread/INFO]: GHOST left the game
+[16:52:23] [Server thread/WARN]: handleDisconnection() called twice
+[16:56:47] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to LORDTECA]
+[16:56:53] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
+[16:57:24] [Server thread/INFO]: Villager class_1646['Mason'/54289, l='ServerLevel[world]', x=-1849.50, y=175.00, z=-553.30] died, message: 'Mason froze to death'
+[16:57:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@3927f49a[id=2f7d6070-c7ec-35c5-9ecb-efe840b6e069,name=GHOST,properties={}] lost connection: Timed out
+[16:58:22] [Server thread/INFO]: LORDTECA has made the advancement [Cover Me with Diamonds]
+[16:59:01] [Server thread/INFO]: GHOST[/127.243.98.80:57853] logged in with entity id 61451 at (188.30000001192093, 51.76636799395752, -56.47894853988702)
+[16:59:01] [Server thread/INFO]: GHOST joined the game
+[17:00:09] [Server thread/INFO]: GHOST has made the advancement [Sweet Dreams]
+[17:00:39] [Server thread/INFO]: [Not Secure] <GHOST> duerman porfa
+[17:01:23] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
+[17:03:25] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
+[17:04:48] [Server thread/INFO]: LORDTECA has completed the challenge [It Spreads]
+[17:07:45] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to -1099.500000, 90.000000, 600.500000]
+[17:08:04] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[17:08:49] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to 1100.500000, 80.000000, 400.500000]
+[17:08:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[17:09:12] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to -1099.500000, 80.000000, 400.500000]
+[17:10:05] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[17:10:20] [Server thread/INFO]: [LORDTECA: Teleported zTJonDMiel to LORDTECA]
+[17:11:53] [Server thread/INFO]: [LORDTECA: Teleported zTJonDMiel to LORDTECA]
+[17:14:30] [Server thread/INFO]: GHOST has made the advancement [Acquire Hardware]
+[17:15:33] [Server thread/INFO]: GHOST has made the advancement [Isn't It Iron Pick]
+[17:15:52] [Server thread/INFO]: GHOST has made the advancement [Suit Up]
+[17:16:13] [Server thread/INFO]: Villager class_1646['Librarian'/73108, l='ServerLevel[world]', x=-1778.70, y=168.39, z=-549.50] died, message: 'Librarian froze to death'
+[17:16:57] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[17:17:49] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[17:18:05] [Server thread/INFO]: Villager class_1646['Cartographer'/73081, l='ServerLevel[world]', x=-1839.30, y=181.51, z=-548.50] died, message: 'Cartographer froze to death'
+[17:20:38] [Server thread/INFO]: zTJonDMiel has made the advancement [Enchanter]
+[17:20:40] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain]] from pos class_2338{x=-1109, y=106, z=-181}
+[17:23:52] [Server thread/INFO]: [LORDTECA: Shrinking the world border to 15000.0 block(s) wide over 1 second(s)]
+[17:24:14] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to 15000.500000, 60.000000, 150.500000]
+[17:24:17] [Server thread/WARN]: LORDTECA moved too quickly! 0.0,-10.80652611000901,0.0
+[17:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[17:24:49] [Server thread/INFO]: Villager class_1646['Fisherman'/79301, l='ServerLevel[world]', x=-1355.30, y=76.00, z=108.33] died, message: 'Fisherman was slain by Zombie'
+[17:24:54] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to 15000.500000, 80.000000, 15000.500000]
+[17:24:56] [Server thread/WARN]: Ph8l1femo moved too quickly! 10.008502120886078,-1.0394118908984566,1.5076755480191935
+[17:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[17:26:23] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to 15023.350000, 5.000000, 63.000000]
+[17:26:58] [Server thread/WARN]: Ph8l1femo was kicked for floating too long!
+[17:26:58] [Server thread/INFO]: Ph8l1femo lost connection: Flying is not enabled on this server
+[17:26:58] [Server thread/INFO]: Ph8l1femo left the game
+[17:27:02] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
+[17:27:30] [Server thread/INFO]: Ph8l1femo[/127.242.48.104:41463] logged in with entity id 83164 at (-1853.532335271662, 179.7531999805212, -503.908318956295)
+[17:27:30] [Server thread/INFO]: Ph8l1femo joined the game
