@@ -3960,6 +3960,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_mutton_chop": "2025-05-31 21:41:56 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-31 21:41:56 +0000"
+    },
+    "done": true
+  },
   "rpg_series:spell_novice_priest": {
     "criteria": {
       "bind": "2025-05-31 21:23:28 +0000"

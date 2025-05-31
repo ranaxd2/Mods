@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 21:08:41 +0000"
@@ -856,6 +862,18 @@
       "has_golden_kite_shield": "2025-05-31 21:22:59 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:chestnut": "2025-05-31 21:39:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
@@ -902,6 +920,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-31 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:30:05 +0000"
     },
     "done": true
   },
@@ -1151,6 +1175,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2025-05-31 21:30:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 21:00:03 +0000"
@@ -1238,6 +1268,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-31 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-31 21:39:21 +0000"
     },
     "done": true
   },
@@ -1444,11 +1480,14 @@
       "minecraft:deep_cold_ocean": "2025-05-31 21:20:11 +0000",
       "minecraft:cold_ocean": "2025-05-31 21:19:43 +0000",
       "minecraft:beach": "2025-05-31 21:18:19 +0000",
+      "minecraft:dark_forest": "2025-05-31 21:38:35 +0000",
       "minecraft:mushroom_fields": "2025-05-31 21:24:38 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-31 21:21:32 +0000",
       "minecraft:river": "2025-05-31 21:16:26 +0000",
+      "minecraft:birch_forest": "2025-05-31 21:38:51 +0000",
       "minecraft:lush_caves": "2025-05-31 21:03:29 +0000",
-      "minecraft:windswept_hills": "2025-05-31 21:18:16 +0000"
+      "minecraft:windswept_hills": "2025-05-31 21:18:16 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-31 21:38:26 +0000"
     },
     "done": false
   },

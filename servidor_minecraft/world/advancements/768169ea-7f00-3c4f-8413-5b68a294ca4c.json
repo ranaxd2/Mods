@@ -3471,6 +3471,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-05-31 21:35:26 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/gold_nugget_from_blasting_golden_kite_shield": {
     "criteria": {
       "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
@@ -3507,6 +3513,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:37:06 +0000"
+    },
+    "done": true
+  },
   "rpg_series:spell_novice_fire": {
     "criteria": {
       "bind": "2025-05-31 21:24:50 +0000"
@@ -3516,6 +3534,12 @@
   "rpg_series:spell_novice_arcane": {
     "criteria": {
       "bind": "2025-05-31 21:21:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:37:06 +0000"
     },
     "done": true
   },
@@ -3531,9 +3555,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-31 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-05-31 21:35:26 +0000"
     },
     "done": true
   },
@@ -3558,6 +3594,12 @@
   "rpg_series:spell_cast_priest_book": {
     "criteria": {
       "cast": "2025-05-31 21:25:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
     },
     "done": true
   },

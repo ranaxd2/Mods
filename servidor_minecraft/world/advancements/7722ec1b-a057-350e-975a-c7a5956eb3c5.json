@@ -2564,6 +2564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 20:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-31 20:44:04 +0000"
@@ -2576,21 +2582,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_log": "2025-05-31 21:03:39 +0000"
+      "has_paper": "2025-05-31 20:44:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-05-31 20:44:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-31 20:45:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-31 21:03:39 +0000"
     },
     "done": true
   },
@@ -2606,9 +2612,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
-      "has_logs": "2025-05-31 21:03:39 +0000"
+      "has_birch_trapdoor": "2025-05-31 20:57:33 +0000"
     },
     "done": true
   },
@@ -2618,33 +2624,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-31 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 21:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-31 21:25:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2025-05-31 20:57:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-31 20:22:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-31 20:44:04 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/blank_scroll": {
-    "criteria": {
-      "has_paper": "2025-05-31 20:44:04 +0000"
     },
     "done": true
   },
