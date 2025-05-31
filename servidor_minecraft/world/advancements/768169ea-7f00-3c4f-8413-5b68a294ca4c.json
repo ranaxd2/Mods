@@ -3465,6 +3465,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/gold_nugget_from_smelting_wand_arcane": {
+    "criteria": {
+      "has_wand_arcane": "2025-05-31 21:12:37 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/gold_nugget_from_blasting_golden_kite_shield": {
     "criteria": {
       "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
@@ -3477,9 +3483,21 @@
     },
     "done": true
   },
+  "rpg_series:trade_archery": {
+    "criteria": {
+      "trade_with_archery_artisan": "2025-05-31 21:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_blasting_archer_armor_head": {
+    "criteria": {
+      "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
     },
     "done": true
   },
@@ -3489,15 +3507,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 21:11:30 +0000"
+    },
+    "done": true
+  },
   "rpg_series:spell_cast_frost_book": {
     "criteria": {
       "cast": "2025-05-31 20:37:55 +0000"
     },
     "done": true
   },
+  "wizards:recipes/misc/gold_nugget_from_blasting_wand_arcane": {
+    "criteria": {
+      "has_wand_arcane": "2025-05-31 21:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:trade_wizard": {
+    "criteria": {
+      "trade_with_wizard": "2025-05-31 21:12:07 +0000"
     },
     "done": true
   },
@@ -3510,6 +3546,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_smelting_archer_armor_head": {
+    "criteria": {
+      "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
     },
     "done": true
   },

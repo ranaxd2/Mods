@@ -1510,6 +1510,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/blaze_powder_from_smelting_fire_robe_chest": {
+    "criteria": {
+      "has_fire_robe_chest": "2025-05-31 21:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 20:17:59 +0000"
@@ -1546,6 +1552,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/blaze_powder_from_smelting_fire_robe_head": {
+    "criteria": {
+      "has_fire_robe_head": "2025-05-31 21:11:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-05-31 20:42:51 +0000"
@@ -1564,9 +1576,21 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/gold_nugget_from_blasting_prior_robe_chest": {
+    "criteria": {
+      "has_prior_robe_chest": "2025-05-31 21:12:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-31 21:14:01 +0000"
     },
     "done": true
   },
@@ -1588,6 +1612,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/blaze_powder_from_blasting_fire_robe_head": {
+    "criteria": {
+      "has_fire_robe_head": "2025-05-31 21:11:02 +0000"
+    },
+    "done": true
+  },
   "archers:recipes/misc/leather_from_blasting_archer_armor_head": {
     "criteria": {
       "has_archer_armor_head": "2025-05-31 20:02:47 +0000"
@@ -1597,6 +1627,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-31 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-05-31 21:11:01 +0000"
     },
     "done": true
   },
@@ -1666,6 +1702,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 20:23:33 +0000"
@@ -1675,6 +1717,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/blaze_powder_from_blasting_fire_robe_chest": {
+    "criteria": {
+      "has_fire_robe_chest": "2025-05-31 21:14:02 +0000"
     },
     "done": true
   },
@@ -1837,6 +1885,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-05-31 20:42:42 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_prior_robe_chest": {
+    "criteria": {
+      "has_prior_robe_chest": "2025-05-31 21:12:57 +0000"
     },
     "done": true
   },

@@ -1719,219 +1719,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+  "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
-      "fried_egg": "2025-05-30 22:39:04 +0000"
+      "has_wool": "2025-05-30 22:26:54 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "usefulbackpacks:recipes/filter_configurator": {
     "criteria": {
-      "has_any_ingredient": "2025-05-30 22:59:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-05-30 22:39:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-05-30 22:47:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-05-30 22:46:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-05-30 22:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-05-30 22:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-30 23:04:16 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_scroll": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-30 22:41:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_large": {
-    "criteria": {
-      "has_medium_backpack": "2025-05-30 22:34:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_candle": {
-    "criteria": {
-      "has_blue_dye": "2025-05-30 22:44:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-05-31 00:02:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_blue_dye": "2025-05-30 22:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-05-30 22:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_medium": {
-    "criteria": {
-      "has_small_backpack": "2025-05-30 22:31:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:05:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-05-30 22:42:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-05-30 22:59:00 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone_from_vines": {
-    "criteria": {
-      "has_waystone": "2025-05-30 22:41:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2025-05-30 22:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-05-30 23:48:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-05-30 22:39:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-05-30 22:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-05-30 22:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-05-30 22:28:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-05-30 23:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-05-31 00:02:58 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/filter_item": {
-    "criteria": {
-      "has_small_backpack": "2025-05-30 22:31:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-30 23:04:16 +0000"
+      "has_wool": "2025-05-30 22:26:54 +0000"
     },
     "done": true
   },
@@ -1941,177 +1737,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-05-30 22:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-30 22:47:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-05-30 22:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-30 23:59:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-05-30 23:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-05-30 22:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-05-31 00:02:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-05-31 00:02:58 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_stone": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-30 22:41:04 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
-    "criteria": {
-      "has_waystone": "2025-05-30 22:41:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:05:53 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_dust": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-30 22:41:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-05-30 22:59:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:05:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-30 22:39:04 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-05-30 22:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-05-30 23:15:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-05-30 23:05:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-05-30 23:09:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-30 22:44:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-30 22:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-30 22:28:28 +0000"
     },
     "done": true
   },
@@ -2121,57 +1755,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-05-30 22:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-05-30 22:44:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-05-30 22:30:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_cyan_terracotta": "2025-05-30 22:49:35 +0000"
+      "has_raw_copper": "2025-05-30 22:30:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_needed_dye": "2025-05-30 23:59:36 +0000"
+      "has_string": "2025-05-30 22:31:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
+      "has_string": "2025-05-30 22:31:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_needed_dye": "2025-05-30 23:59:36 +0000"
+      "has_string": "2025-05-30 22:31:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "minecraft:recipes/decorations/candle": {
     "criteria": {
-      "has_planks": "2025-05-30 23:05:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-30 22:44:39 +0000"
+      "has_string": "2025-05-30 22:31:20 +0000"
     },
     "done": true
   },
@@ -2181,51 +1797,321 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-30 22:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-30 22:31:20 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2025-05-30 22:31:54 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-05-30 22:31:54 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2025-05-30 22:31:54 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-05-30 22:34:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-30 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-30 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-30 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-30 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-30 22:41:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-30 22:41:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-30 22:41:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-05-30 22:41:15 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-05-30 22:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-30 22:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-30 22:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-30 22:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-30 22:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 22:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-30 22:44:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
-      "has_red_dye": "2025-05-30 23:59:36 +0000"
+      "has_needed_dye": "2025-05-30 22:44:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
+      "has_blue_dye": "2025-05-30 22:44:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
+  "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
-      "has_red_dye": "2025-05-30 23:59:36 +0000"
+      "has_red_flower": "2025-05-30 22:45:32 +0000"
     },
     "done": true
   },
-  "rpg_series:classes": {
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "book": "2025-05-30 23:08:04 +0000"
+      "has_orange_tulip": "2025-05-30 22:45:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_stone": "2025-05-30 23:43:06 +0000"
+      "has_flint": "2025-05-30 22:46:11 +0000"
     },
     "done": true
   },
-  "usefulbackpacks:recipes/backpack_small": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_wool": "2025-05-30 22:26:54 +0000"
+      "has_gray_wool": "2025-05-30 22:47:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_planks": "2025-05-30 23:16:00 +0000"
+      "has_gray_wool": "2025-05-30 22:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-30 22:47:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 22:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 22:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 22:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-05-30 22:49:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 22:59:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-05-30 22:59:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-30 22:59:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-30 22:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-30 23:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-30 23:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-30 23:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-30 23:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:05:53 +0000"
     },
     "done": true
   },
@@ -2247,39 +2133,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_pointed_dripstone": "2025-05-30 23:54:35 +0000"
+      "has_planks": "2025-05-30 23:05:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "rpg_series:classes": {
     "criteria": {
-      "has_string": "2025-05-30 22:31:20 +0000"
+      "book": "2025-05-30 23:08:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_red_dye": "2025-05-30 23:59:36 +0000"
+      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
+  "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
-      "has_rice": "2025-05-30 22:59:00 +0000"
+      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_red_dye": "2025-05-30 23:59:36 +0000"
+      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "has_cornflower": "2025-05-30 22:43:37 +0000"
+      "has_amethyst_shard": "2025-05-30 23:08:50 +0000"
     },
     "done": true
   },
@@ -2289,39 +2175,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_gray_wool": "2025-05-30 22:47:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-30 22:44:39 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/filter_configurator": {
-    "criteria": {
-      "has_wool": "2025-05-30 22:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-05-30 22:45:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-05-30 22:45:36 +0000"
+      "has_oxeye_daisy": "2025-05-30 23:09:58 +0000"
     },
     "done": true
   },
@@ -2331,9 +2187,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-05-30 23:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-30 23:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-30 23:43:06 +0000"
     },
     "done": true
   },
@@ -2349,9 +2307,87 @@
     },
     "done": true
   },
-  "usefulbackpacks:recipes/filter_tag": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "has_small_backpack": "2025-05-30 22:31:54 +0000"
+      "has_diorite": "2025-05-30 23:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-30 23:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-30 23:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-30 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-31 00:02:58 +0000"
     },
     "done": true
   },
@@ -2361,39 +2397,279 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "waystones:recipes/decorations/black_sharestone": {
     "criteria": {
-      "has_blue_dye": "2025-05-30 22:44:39 +0000"
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "waystones:recipes/decorations/magenta_sharestone": {
     "criteria": {
-      "has_planks": "2025-05-30 23:05:53 +0000"
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "waystones:recipes/decorations/purple_portstone": {
     "criteria": {
-      "has_string": "2025-05-30 22:31:20 +0000"
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "waystones:recipes/decorations/light_blue_sharestone": {
     "criteria": {
-      "has_diorite": "2025-05-30 23:43:06 +0000"
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "waystones:recipes/decorations/light_gray_sharestone": {
     "criteria": {
-      "has_raw_copper": "2025-05-30 22:30:00 +0000"
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "waystones:recipes/decorations/brown_portstone": {
     "criteria": {
-      "fried_egg": "2025-05-30 22:39:04 +0000"
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/white_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/end_stone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blackstone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/sandy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/waystone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2025-05-31 21:06:43 +0000"
     },
     "done": true
   },

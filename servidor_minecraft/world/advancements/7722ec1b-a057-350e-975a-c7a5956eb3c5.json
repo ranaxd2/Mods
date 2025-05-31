@@ -2576,9 +2576,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 21:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-31 20:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-31 21:03:39 +0000"
     },
     "done": true
   },
@@ -2591,6 +2603,18 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-31 20:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-05-31 21:01:13 +0000"
     },
     "done": true
   },
