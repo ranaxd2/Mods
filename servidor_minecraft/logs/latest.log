@@ -1,6 +1,6 @@
-[01:56:06] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[01:56:06] [ForkJoinPool-1-worker-1/WARN]: Mod ctov uses the version 3.5.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:56:06] [main/INFO]: Loading 114 mods:
+[14:46:29] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[14:46:30] [ForkJoinPool-1-worker-2/WARN]: Mod ctov uses the version 3.5.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:46:32] [main/INFO]: Loading 114 mods:
 	- amendments 1.21-1.2.24
 	- archers 2.4.11+1.21.1
 	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
@@ -143,22 +143,22 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.21.1-Fabric-5.1.1
 	   \-- org_reflections_reflections 0.10.2
-[01:56:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mods/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:56:07] [main/INFO]: Compatibility level set to JAVA_17
-[01:56:07] [main/INFO]: Compatibility level set to JAVA_21
-[01:56:07] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:56:08] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
-[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_634 was not found uteamcore.mixins.json:ClientPacketListenerMixin from mod uteamcore
-[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
-[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_310 was not found uteamcore.mixins.json:MinecraftMixin from mod uteamcore
-[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_309 (java.lang.ClassNotFoundException: net/minecraft/class_309)
-[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_309 was not found uteamcore.mixins.json:KeyboardHandlerMixin from mod uteamcore
-[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
-[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
-[01:56:08] [main/ERROR]: uteamcore.mixins.json:UContainerMenuScreenMixin from mod uteamcore: Super class 'net.minecraft.class_465' of UContainerMenuScreenMixin was not found in the hierarchy of target class 'info/u_team/u_team_core/screen/UContainerMenuScreen'
+[14:46:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mods/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:46:33] [main/INFO]: Compatibility level set to JAVA_17
+[14:46:33] [main/INFO]: Compatibility level set to JAVA_21
+[14:46:34] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:46:35] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[14:46:35] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
+[14:46:35] [main/WARN]: @Mixin target net.minecraft.class_634 was not found uteamcore.mixins.json:ClientPacketListenerMixin from mod uteamcore
+[14:46:35] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[14:46:35] [main/WARN]: @Mixin target net.minecraft.class_310 was not found uteamcore.mixins.json:MinecraftMixin from mod uteamcore
+[14:46:35] [main/WARN]: Error loading class: net/minecraft/class_309 (java.lang.ClassNotFoundException: net/minecraft/class_309)
+[14:46:35] [main/WARN]: @Mixin target net.minecraft.class_309 was not found uteamcore.mixins.json:KeyboardHandlerMixin from mod uteamcore
+[14:46:35] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[14:46:35] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[14:46:35] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[14:46:35] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[14:46:35] [main/ERROR]: uteamcore.mixins.json:UContainerMenuScreenMixin from mod uteamcore: Super class 'net.minecraft.class_465' of UContainerMenuScreenMixin was not found in the hierarchy of target class 'info/u_team/u_team_core/screen/UContainerMenuScreen'
 org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super class 'net.minecraft.class_465' of UContainerMenuScreenMixin was not found in the hierarchy of target class 'info/u_team/u_team_core/screen/UContainerMenuScreen'
 	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:593) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
@@ -180,351 +180,200 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[01:56:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:56:16] [main/INFO]: Loaded config amendments-common.json
-[01:56:17] [main/INFO]: Reflections took 44 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:17] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:17] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:17] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:17] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[01:56:17] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[01:56:17] [main/INFO]: Customized Bundles!
-[01:56:17] [main/INFO]: Loaded config farmersdelight-common.json
-[01:56:18] [main/INFO]: Definitely not up to no good
-[01:56:18] [main/INFO]: Reflections took 16 ms to scan 1 urls, producing 6 keys and 40 values
-[01:56:18] [main/INFO]: Reflections took 11 ms to scan 1 urls, producing 6 keys and 40 values
-[01:56:18] [main/INFO]: Registering Ribbit instruments...
-[01:56:18] [main/INFO]: Registering Ribbit umbrella types...
-[01:56:18] [main/INFO]: Registering Ribbit professions...
-[01:56:18] [main/INFO]: Shield API initialized!
-[01:56:18] [main/INFO]: Loaded config supplementaries-common.json
-[01:56:19] [Version Check/INFO]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks_fabric.json
-[01:56:19] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:19] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[01:56:19] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:19] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:56:19] [Version Check/INFO]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.129 Target: null
-[01:56:19] [Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore_fabric.json
-[01:56:19] [Version Check/INFO]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.384 Target: null
-[01:56:20] [main/INFO]: Initialized block sets in 14ms
-[01:56:20] [main/ERROR]: No data fixer registered for falling_lantern
-[01:56:20] [main/ERROR]: No data fixer registered for dispenser_minecart
-[01:56:20] [main/ERROR]: No data fixer registered for falling_urn
-[01:56:20] [main/ERROR]: No data fixer registered for falling_ash
-[01:56:20] [main/ERROR]: No data fixer registered for falling_sack
-[01:56:20] [main/ERROR]: No data fixer registered for brick_projectile
-[01:56:20] [main/ERROR]: No data fixer registered for slimeball_projectile
-[01:56:20] [main/ERROR]: No data fixer registered for bomb
-[01:56:20] [main/ERROR]: No data fixer registered for cannonball
-[01:56:20] [main/ERROR]: No data fixer registered for rope_arrow
-[01:56:20] [main/ERROR]: No data fixer registered for slingshot_projectile
-[01:56:20] [main/INFO]: Loaded config moonlight-common.json
-[01:56:20] [main/INFO]: Initialized color sets in 20ms
-[01:56:20] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 10, 2, 1] ms
-[01:56:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:56:20] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 30 ms
-[01:56:23] [main/INFO]: Loaded 2299 recipes
-[01:56:23] [main/ERROR]: Parsing error loading custom advancement supplementaries:adventure/way_sign: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: supplementaries:way_sing_oak
-[01:56:23] [main/INFO]: Loaded 1942 advancements
-[01:56:23] [main/INFO]: Applied 7 data villager trades
-[01:56:23] [main/INFO]: Loaded 27 flute songs
-[01:56:23] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:ingots/lead, c:storage_blocks/lead
-[01:56:24] [main/INFO]: Registering custom dispenser behaviors
-[01:56:24] [main/INFO]: Applied 1000 biome modifications to 158 of 159 new biomes in 48.52 ms
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:acolyte_wand
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aeternium_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_heavy_crossbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_holy_staff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_longbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:aether_wizard_staff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:anchor
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:axe
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:battlestaff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_heavy
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_light
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claw
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:composite_longbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:coral_blade
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_heavy
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_light
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:crystal_longbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:cutlass
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:dagger
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_staff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_wand
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:diamond_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:diamond_sword
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:double_axe
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:fist
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:flint_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:glaive
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:golden_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:golden_sword
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:halberd
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:heavy_axe
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:heavy_crossbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_staff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_wand
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:iron_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:iron_sword
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:katana
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:lance
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_heavy_crossbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_staff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_wand
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_longbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:netherite_sword
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:pickaxe
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:rapier
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:royal_longbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_heavy_crossbow
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_holy_staff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:scythe
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sickle
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: farmersdelight:skillet
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:soul_knife
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:spear
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:staff
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_arcane
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_crystal_arcane
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_fire
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_frost
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_arcane
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_fire
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_frost
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_ruby_fire
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_smaragdant_frost
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_wizard
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_claymore
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:stone_sword
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sword
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:trident
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:trident
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:twin_blade
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:vanilla_mace
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:wand
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_arcane
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_fire
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_frost
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_arcane
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_fire
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_frost
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_novice
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:wooden_great_hammer
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:wooden_sword
-[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: supplementaries:wrench
-[01:56:24] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 4371 bytes (in 1 string chunks with the size of 10000)
-[01:56:24] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 2 string chunks with the size of 10000)
-[01:56:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:56:24] [Server thread/INFO]: Loading properties
-[01:56:24] [Server thread/INFO]: Default game type: SURVIVAL
-[01:56:24] [Server thread/INFO]: Generating keypair
-[01:56:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:56:24] [Server thread/INFO]: Using epoll channel type
-[01:56:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:56:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:56:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:56:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:56:24] [Server thread/INFO]: Preparing level "world"
-[01:56:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:56:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:56:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:56:30] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[01:56:30] [Server thread/INFO]: Time elapsed: 1085 ms
-[01:56:30] [Server thread/INFO]: Done (5.489s)! For help, type "help"
-[01:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4035ms or 80 ticks behind
-[02:00:08] [Server thread/INFO]: Ph8l1femo[/127.242.48.104:55807] logged in with entity id 15 at (-635.0958272836365, 27.0, 268.42516568147204)
-[02:00:08] [Server thread/INFO]: Ph8l1femo joined the game
-[02:00:34] [Server thread/INFO]: Ph8l1femo was slain by Skeleton
-[02:09:37] [Server thread/INFO]: zTJonDMiel[/127.82.222.47:44555] logged in with entity id 2546 at (-77.22331887240317, 84.0, 44.240549005677885)
-[02:09:37] [Server thread/INFO]: zTJonDMiel joined the game
-[02:11:43] [Server thread/INFO]: [Not Secure] <zTJonDMiel> quien eres mano
-[02:11:57] [Server thread/INFO]: [Not Secure] <Ph8l1femo> quien eres tu mano
-[02:12:08] [Server thread/INFO]: [Not Secure] <zTJonDMiel> henry?
-[02:12:16] [Server thread/INFO]: [Not Secure] <Ph8l1femo> marco?
-[02:13:41] [Server thread/INFO]: [Not Secure] <Ph8l1femo> quien eres pe mano
-[02:13:53] [Server thread/INFO]: [Not Secure] <zTJonDMiel> niels
-[02:14:00] [Server thread/INFO]: [Not Secure] <zTJonDMiel> xd tu
-[02:14:04] [Server thread/INFO]: [Not Secure] <Ph8l1femo> jhery
-[02:14:09] [Server thread/INFO]: [Not Secure] <zTJonDMiel> eyyyyyy
-[02:19:15] [Server thread/INFO]: jerock_123[/127.178.138.99:43077] logged in with entity id 5394 at (-5.5, 139.0, -32.5)
-[02:19:15] [Server thread/INFO]: jerock_123 joined the game
-[02:21:36] [Server thread/INFO]: [Not Secure] <jerock_123> ya entre perros
-[02:25:05] [Server thread/INFO]: jerock_123 has made the advancement [Stone Age]
-[02:25:40] [Server thread/INFO]: jerock_123 has made the advancement [Getting an Upgrade]
-[02:27:15] [Server thread/INFO]: zTJonDMiel lost connection: Disconnected
-[02:27:15] [Server thread/INFO]: zTJonDMiel left the game
-[02:32:25] [Server thread/INFO]: jerock_123 has made the advancement [Acquire Hardware]
-[02:32:33] [Server thread/INFO]: jerock_123 has made the advancement [Isn't It Iron Pick]
-[02:41:49] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa]] from pos class_2338{x=91, y=74, z=-501}
-[02:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5073ms or 101 ticks behind
-[02:41:56] [Server thread/WARN]: Ph8l1femo moved too quickly! -9.802951219501097,-0.9893499858739716,-2.3806108376671773
-[02:41:56] [Server thread/WARN]: jerock_123 moved too quickly! 1.8209133598566751,-4.092604597635045,-9.0
-[02:42:02] [Server thread/WARN]: Ph8l1femo moved too quickly! -7.52311918611565,2.0013359791121417,-6.797217342037243
-[02:42:02] [Server thread/WARN]: jerock_123 moved too quickly! 2.942341925693867,-6.0,-7.451117234049548
-[02:43:32] [pool-4-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga_fortified]] from pos class_2338{x=5, y=80, z=-821}
-[02:44:43] [Server thread/INFO]: zTJonDMiel[/127.82.222.47:45859] logged in with entity id 16740 at (-110.69999998807907, 128.0, -269.30000001192093)
-[02:44:43] [Server thread/INFO]: zTJonDMiel joined the game
-[02:47:16] [Server thread/INFO]: jerock_123 has made the advancement [Suit Up]
-[02:58:02] [Server thread/INFO]: jerock_123 has made the advancement [Monster Hunter]
-[03:00:17] [Server thread/INFO]: No player was found
-[03:00:37] [Server thread/INFO]: You whisper to jerock_123: no estras utilizando hacks no marco?
-[03:00:54] [Server thread/INFO]: [Not Secure] <jerock_123> no ecuisde porque ?
-[03:01:04] [Server thread/INFO]: [Not Secure] <zTJonDMiel> XD?
-[03:01:09] [Server thread/INFO]: [Not Secure] <zTJonDMiel> hola joaquin
-[03:01:15] [Server thread/INFO]: [Not Secure] <Ph8l1femo> ?
-[03:01:23] [Server thread/INFO]: [Not Secure] <jerock_123> hola tejon tan pro que me acusan de kuaker
-[03:01:32] [Server thread/INFO]: [Not Secure] <zTJonDMiel> jajajasj
-[03:01:45] [Server thread/INFO]: No player was found
-[03:01:51] [Server thread/INFO]: [Not Secure] <jerock_123> a conseguir mochila que esta facil
-[03:02:13] [Server thread/INFO]: [Not Secure] [Server] say calla tejon
-[03:02:23] [Server thread/INFO]: [Not Secure] <zTJonDMiel> qno
-[03:02:32] [Server thread/INFO]: [Not Secure] <jerock_123> busca hilo tejon para las mochilas
-[03:02:49] [Server thread/INFO]: [Not Secure] <jerock_123> y laa
-[03:02:55] [Server thread/INFO]: [Not Secure] <jerock_123> y lana
-[03:03:09] [pool-4-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain_alpine]] from pos class_2338{x=133, y=78, z=-1099}
-[03:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
-[03:03:12] [Server thread/WARN]: zTJonDMiel moved too quickly! -2.616865714028334,-0.8787031594607981,-9.826889760625363
-[03:03:23] [Server thread/INFO]: [Not Secure] <zTJonDMiel> marcoo
-[03:03:27] [Server thread/INFO]: [Not Secure] <jerock_123> =
-[03:03:30] [Server thread/INFO]: [Not Secure] <jerock_123> ?
-[03:03:32] [Server thread/INFO]: [Not Secure] <zTJonDMiel> como hiciste esa cosa
-[03:03:36] [Server thread/INFO]: [Not Secure] <zTJonDMiel> ese mazo
-[03:03:37] [Server thread/INFO]: [Not Secure] <jerock_123> es facil
-[03:04:06] [Server thread/INFO]: [Not Secure] <zTJonDMiel> como lo hiciste??
-[03:04:21] [Server thread/INFO]: [Not Secure] <jerock_123> un palo y 4 de hierro
-[03:04:26] [Server thread/INFO]: [Not Secure] <zTJonDMiel> aaaa
-[03:04:29] [Server thread/INFO]: [Not Secure] <jerock_123> el palo abajo a la isquierda
-[03:04:30] [Server thread/INFO]: [Not Secure] <zTJonDMiel> vamos a cueva?
-[03:04:35] [Server thread/INFO]: [Not Secure] <zTJonDMiel> farmear niveles
-[03:04:41] [Server thread/INFO]: [Not Secure] <jerock_123> voy a buscar hilo para mochil
-[03:04:47] [Server thread/INFO]: [Not Secure] <jerock_123> y crafteate cama
-[03:04:54] [Server thread/INFO]: [Not Secure] <zTJonDMiel> como se hace eso
-[03:05:08] [Server thread/INFO]: [Not Secure] <jerock_123> se necesita cuero lana
-[03:06:19] [Server thread/INFO]: [Not Secure] <jerock_123> go cueva consigue madera
-[03:06:24] [Server thread/INFO]: [Not Secure] <zTJonDMiel> toma
-[03:06:53] [Server thread/INFO]: [Not Secure] <zTJonDMiel> toma
-[03:07:01] [Server thread/INFO]: [Not Secure] <jerock_123> lleva ps
-[03:07:10] [Server thread/INFO]: [Not Secure] <zTJonDMiel> yaya
-[03:08:53] [Server thread/INFO]: Villager class_1646['Shepherd'/23963, l='ServerLevel[world]', x=-1533.11, y=66.05, z=585.39] died, message: 'Shepherd drowned'
-[03:09:37] [Server thread/INFO]: [Not Secure] <jerock_123> vamos cueva
-[03:09:41] [Server thread/INFO]: [Not Secure] <zTJonDMiel> untoque
-[03:09:43] [Server thread/INFO]: [Not Secure] <jerock_123> lleva tu cama
-[03:09:48] [Server thread/INFO]: [Not Secure] <zTJonDMiel> tienes comida?
-[03:09:51] [Server thread/INFO]: [Not Secure] <jerock_123> si
-[03:10:31] [Server thread/INFO]: [Not Secure] <zTJonDMiel> pt no tengo cama
-[03:10:52] [Server thread/INFO]: [Not Secure] <jerock_123> matas a las obejas
-[03:10:56] [Server thread/INFO]: [Not Secure] <zTJonDMiel> yaya
-[03:11:35] [Server thread/INFO]: [Not Secure] <jerock_123> ven tejon
-[03:12:23] [Server thread/INFO]: [Not Secure] <jerock_123> donde te fuiste
-[03:12:27] [Server thread/INFO]: [Not Secure] <zTJonDMiel> sube
-[03:12:29] [Server thread/INFO]: [Not Secure] <zTJonDMiel> por el agua
-[03:12:49] [Server thread/INFO]: [Not Secure] <zTJonDMiel> dnd estas
-[03:12:59] [Server thread/INFO]: [Not Secure] <zTJonDMiel> yaa
-[03:16:39] [Server thread/INFO]: [Not Secure] <jerock_123> ven
-[03:16:44] [Server thread/INFO]: [Not Secure] <zTJonDMiel> ya
-[03:16:55] [Server thread/INFO]: [Not Secure] <zTJonDMiel> o q fuee
-[03:19:30] [Server thread/INFO]: [Not Secure] <zTJonDMiel> dnd estas
-[03:21:51] [Server thread/INFO]: Ph8l1femo has made the advancement [Best Friends Forever]
-[03:22:34] [Server thread/INFO]: [Not Secure] <zTJonDMiel> oeo
-[03:22:38] [Server thread/INFO]: [Not Secure] <zTJonDMiel> tienes esmeraldas?
-[03:22:44] [Server thread/INFO]: [Not Secure] <jerock_123> nel
-[03:22:55] [Server thread/INFO]: [Not Secure] <jerock_123> vamos cueva ?
-[03:23:00] [Server thread/INFO]: [Not Secure] <zTJonDMiel> tienes esmeraldas?
-[03:23:05] [Server thread/INFO]: [Not Secure] <zTJonDMiel> tmreeee
-[03:23:10] [Server thread/INFO]: [Not Secure] <zTJonDMiel> necesito esmeraldasss
-[03:23:23] [Server thread/INFO]: [Not Secure] <zTJonDMiel> hay una buena espadaaaaa
-[03:23:30] [Server thread/INFO]: [Not Secure] <zTJonDMiel> pero necesito esmeraldas ptmre
-[03:23:39] [Server thread/INFO]: [Not Secure] <zTJonDMiel> ven haber
-[03:24:41] [Server thread/INFO]: [Not Secure] <zTJonDMiel> marcoo
-[03:24:43] [Server thread/INFO]: [Not Secure] <zTJonDMiel> dnd estass
-[03:24:45] [Server thread/INFO]: [Not Secure] <jerock_123> ?
-[03:24:56] [Server thread/INFO]: [Not Secure] <jerock_123> en una casa con los aldeanos
-[03:25:07] [Server thread/INFO]: [Not Secure] <zTJonDMiel> en la misma q estabamos?
-[03:25:22] [Server thread/INFO]: [Not Secure] <jerock_123> no uno donde da encantamientos
-[03:25:41] [Server thread/INFO]: [Not Secure] <zTJonDMiel> encantamelo mi espada
-[03:25:44] [Server thread/INFO]: [Not Secure] <zTJonDMiel> porfa
-[03:26:21] [Server thread/INFO]: [Not Secure] <jerock_123> consigue caña
-[03:26:32] [Server thread/INFO]: [Not Secure] <zTJonDMiel> dnd consigo
-[03:26:33] [Server thread/INFO]: [Not Secure] <jerock_123> salio aspecto igneo
-[03:26:41] [Server thread/INFO]: [Not Secure] <zTJonDMiel> yaya
-[03:26:52] [Server thread/INFO]: [Not Secure] <jerock_123> o vamos a cueva
-[03:27:00] [Server thread/INFO]: [Not Secure] <zTJonDMiel> quiero aspecto igneo XD
-[03:27:03] [Server thread/INFO]: [Not Secure] <jerock_123> a full diamante
-[03:27:04] [Server thread/INFO]: [Not Secure] <zTJonDMiel> como lo ves
-[03:27:06] [Server thread/INFO]: [Not Secure] <zTJonDMiel> ya goo
-[03:27:11] [Server thread/INFO]: [Not Secure] <jerock_123> cuesta 19 esmeraldas
-[03:27:27] [Server thread/INFO]: [Not Secure] <jerock_123> guarda spawn aqui
-[03:27:31] [Server thread/INFO]: [Not Secure] <zTJonDMiel> encontre una espada de hierro con aspecto igneo y otros encantamiento
-[03:27:35] [Server thread/INFO]: [Not Secure] <zTJonDMiel> pero a 16 esmeraldas
-[03:28:00] [Server thread/INFO]: [Not Secure] <jerock_123> vamos a conseguir primero full diamantes
-[03:28:12] [Server thread/INFO]: [Not Secure] <zTJonDMiel> ya vamo
-[03:28:25] [Server thread/INFO]: [Not Secure] <zTJonDMiel> goo p
-[03:28:33] [Server thread/INFO]: [Not Secure] <jerock_123> ya guardaste spawn ?
-[03:28:39] [Server thread/INFO]: [Not Secure] <zTJonDMiel> q es eso
-[03:28:48] [Server thread/INFO]: [Not Secure] <jerock_123> para cuando mueras aprescas aqui
-[03:28:52] [Server thread/INFO]: [Not Secure] [Server] ya voy apagr els erver vici/msgmsg jeromsg jerock_123 ya voy apagar el server
-[03:29:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:29:02] [Server thread/INFO]: tmr<--[HERE]
-[03:29:10] [Server thread/INFO]: zTJonDMiel has made the advancement [Sweet Dreams]
-[03:29:14] [Server thread/INFO]: [Not Secure] <jerock_123> no seas loko recien estoy comenzandow
-[03:29:27] [Server thread/INFO]: [Not Secure] <zTJonDMiel> ya me heche en mi cama
-[03:29:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:29:27] [Server thread/INFO]: :v<--[HERE]
-[03:29:32] [Server thread/INFO]: [Not Secure] <zTJonDMiel> ahi voy a aparecer no?
-[03:29:40] [Server thread/INFO]: [Not Secure] [Server] nose la verdad
-[03:29:55] [Server thread/INFO]: [Not Secure] [Server] no pudo mantenerlo encendido tanto tiempo
-[03:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:30:01] [Server thread/INFO]: mañana juegan le dicen a layse<--[HERE]
-[03:30:08] [Server thread/INFO]: jerock_123 has made the advancement [Sweet Dreams]
-[03:30:13] [Server thread/INFO]: [Not Secure] [Server] mañana juegan le idcen a layse
-[03:30:18] [Server thread/INFO]: [Not Secure] [Server] :v
-[03:30:22] [Server thread/INFO]: [Not Secure] <zTJonDMiel> q fu
-[03:30:26] [Server thread/INFO]: [Not Secure] <zTJonDMiel> dejalo prendido p
-[03:30:45] [Server thread/INFO]: [Not Secure] <zTJonDMiel> marco dnd estas
-[03:30:53] [Server thread/INFO]: [Not Secure] <jerock_123> entre a la cueva
-[03:31:01] [Server thread/INFO]: [Not Secure] <jerock_123> sigue las antorchas
-[03:31:15] [Server thread/INFO]: [Not Secure] <zTJonDMiel> yay
-[03:32:22] [Server thread/INFO]: [Not Secure] <zTJonDMiel> oe mi agua Xd
-[03:32:26] [Server thread/INFO]: jerock_123 has made the advancement [Not Today, Thank You]
+[14:46:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:46:47] [main/INFO]: Loaded config amendments-common.json
+[14:46:48] [main/INFO]: Reflections took 57 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:48] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[14:46:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[14:46:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[14:46:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[14:46:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[14:46:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[14:46:48] [main/INFO]: Customized Bundles!
+[14:46:48] [main/INFO]: Loaded config farmersdelight-common.json
+[14:46:49] [main/INFO]: Definitely not up to no good
+[14:46:49] [main/INFO]: Reflections took 22 ms to scan 1 urls, producing 6 keys and 40 values
+[14:46:49] [main/INFO]: Reflections took 16 ms to scan 1 urls, producing 6 keys and 40 values
+[14:46:49] [main/INFO]: Registering Ribbit instruments...
+[14:46:49] [main/INFO]: Registering Ribbit umbrella types...
+[14:46:49] [main/INFO]: Registering Ribbit professions...
+[14:46:49] [main/INFO]: Shield API initialized!
+[14:46:49] [main/INFO]: Loaded config supplementaries-common.json
+[14:46:51] [Version Check/INFO]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks_fabric.json
+[14:46:51] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:51] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[14:46:51] [Version Check/INFO]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.129 Target: null
+[14:46:51] [Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore_fabric.json
+[14:46:51] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:51] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:51] [Version Check/INFO]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.384 Target: null
+[14:46:51] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:51] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[14:46:52] [main/INFO]: Initialized block sets in 13ms
+[14:46:52] [main/ERROR]: No data fixer registered for falling_lantern
+[14:46:52] [main/ERROR]: No data fixer registered for dispenser_minecart
+[14:46:52] [main/ERROR]: No data fixer registered for falling_urn
+[14:46:52] [main/ERROR]: No data fixer registered for falling_ash
+[14:46:52] [main/ERROR]: No data fixer registered for falling_sack
+[14:46:52] [main/ERROR]: No data fixer registered for brick_projectile
+[14:46:52] [main/ERROR]: No data fixer registered for slimeball_projectile
+[14:46:52] [main/ERROR]: No data fixer registered for bomb
+[14:46:52] [main/ERROR]: No data fixer registered for cannonball
+[14:46:52] [main/ERROR]: No data fixer registered for rope_arrow
+[14:46:52] [main/ERROR]: No data fixer registered for slingshot_projectile
+[14:46:52] [main/INFO]: Loaded config moonlight-common.json
+[14:46:52] [main/INFO]: Initialized color sets in 34ms
+[14:46:52] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 14, 3, 0] ms
+[14:46:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:46:52] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 42 ms
+[14:46:56] [main/INFO]: Loaded 2299 recipes
+[14:46:57] [main/ERROR]: Parsing error loading custom advancement supplementaries:adventure/way_sign: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: supplementaries:way_sing_oak
+[14:46:57] [main/INFO]: Loaded 1942 advancements
+[14:46:57] [main/INFO]: Applied 7 data villager trades
+[14:46:57] [main/INFO]: Loaded 27 flute songs
+[14:46:57] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:ingots/lead, c:storage_blocks/lead
+[14:46:58] [main/INFO]: Registering custom dispenser behaviors
+[14:46:58] [main/INFO]: Applied 1000 biome modifications to 158 of 159 new biomes in 46.98 ms
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:acolyte_wand
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aeternium_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_heavy_crossbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_holy_staff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_longbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:aether_wizard_staff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:anchor
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:axe
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:battlestaff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_heavy
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_light
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claw
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:composite_longbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:coral_blade
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_heavy
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_light
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:crystal_longbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:cutlass
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:dagger
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_staff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_wand
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:diamond_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:diamond_sword
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:double_axe
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:fist
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:flint_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:glaive
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:golden_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:golden_sword
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:halberd
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:heavy_axe
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:heavy_crossbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_staff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_wand
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:iron_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:iron_sword
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:katana
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:lance
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_heavy_crossbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_staff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_wand
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_longbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:netherite_sword
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:pickaxe
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:rapier
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:royal_longbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_heavy_crossbow
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_holy_staff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:scythe
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sickle
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: farmersdelight:skillet
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:soul_knife
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:spear
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:staff
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_arcane
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_crystal_arcane
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_fire
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_frost
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_arcane
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_fire
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_frost
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_ruby_fire
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_smaragdant_frost
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_wizard
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_claymore
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:stone_sword
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sword
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:trident
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:trident
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:twin_blade
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:vanilla_mace
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:wand
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_arcane
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_fire
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_frost
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_arcane
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_fire
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_frost
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_novice
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:wooden_great_hammer
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:wooden_sword
+[14:46:58] [Server thread/INFO]: [STDOUT]: Loaded container: supplementaries:wrench
+[14:46:59] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 4371 bytes (in 1 string chunks with the size of 10000)
+[14:46:59] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 2 string chunks with the size of 10000)
+[14:46:59] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:46:59] [Server thread/INFO]: Loading properties
+[14:46:59] [Server thread/INFO]: Default game type: SURVIVAL
+[14:46:59] [Server thread/INFO]: Generating keypair
+[14:46:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:46:59] [Server thread/INFO]: Using epoll channel type
+[14:46:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:46:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:46:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:46:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:46:59] [Server thread/INFO]: Preparing level "world"
+[14:47:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:47:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:47:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:47:06] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[14:47:07] [Worker-Main-2/INFO]: Preparing spawn area: 65%
+[14:47:07] [Server thread/INFO]: Time elapsed: 2069 ms
+[14:47:07] [Server thread/INFO]: Done (8.384s)! For help, type "help"
+[14:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5549ms or 110 ticks behind
+[14:55:41] [Server thread/INFO]: Ph8l1femo[/127.242.48.104:34739] logged in with entity id 4 at (-1503.699999988079, 57.0, 631.2268994163944)
+[14:55:41] [Server thread/INFO]: Ph8l1femo joined the game
