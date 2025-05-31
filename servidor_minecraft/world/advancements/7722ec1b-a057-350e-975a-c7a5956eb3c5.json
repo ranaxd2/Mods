@@ -871,7 +871,8 @@
       "minecraft:windswept_forest": "2025-05-30 23:11:09 +0000",
       "minecraft:river": "2025-05-31 17:56:51 +0000",
       "minecraft:lush_caves": "2025-05-31 19:58:37 +0000",
-      "minecraft:windswept_savanna": "2025-05-31 02:51:42 +0000"
+      "minecraft:windswept_savanna": "2025-05-31 02:51:42 +0000",
+      "minecraft:jagged_peaks": "2025-05-31 20:54:44 +0000"
     },
     "done": false
   },
@@ -980,7 +981,8 @@
       "cooked_chicken": "2025-05-31 02:58:02 +0000",
       "cooked_mutton": "2025-05-31 03:09:20 +0000",
       "potato": "2025-05-31 15:03:33 +0000",
-      "cooked_beef": "2025-05-30 23:55:10 +0000"
+      "cooked_beef": "2025-05-30 23:55:10 +0000",
+      "porkchop": "2025-05-31 20:47:38 +0000"
     },
     "done": false
   },
@@ -2559,6 +2561,60 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-31 18:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-31 20:44:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-05-31 20:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-31 20:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 20:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-31 20:50:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-05-31 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 20:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-31 20:44:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-05-31 20:44:04 +0000"
     },
     "done": true
   },

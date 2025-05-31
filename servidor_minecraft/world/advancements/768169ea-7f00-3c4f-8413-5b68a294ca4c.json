@@ -1645,14 +1645,16 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-05-30 00:43:17 +0000",
       "minecraft:beach": "2025-05-30 00:41:17 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-31 20:52:26 +0000",
       "minecraft:forest": "2025-05-30 01:09:44 +0000",
       "minecraft:taiga": "2025-05-30 00:43:26 +0000",
+      "minecraft:river": "2025-05-30 00:40:56 +0000",
+      "minecraft:lush_caves": "2025-05-30 00:45:30 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-31 20:51:00 +0000",
       "minecraft:deep_dark": "2025-05-30 22:56:31 +0000",
       "minecraft:ocean": "2025-05-30 00:41:55 +0000",
-      "minecraft:river": "2025-05-30 00:40:56 +0000",
       "minecraft:swamp": "2025-05-31 20:17:34 +0000",
       "minecraft:birch_forest": "2025-05-30 00:41:07 +0000",
-      "minecraft:lush_caves": "2025-05-30 00:45:30 +0000",
       "minecraft:plains": "2025-05-30 01:11:03 +0000"
     },
     "done": false
@@ -3127,9 +3129,45 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_iron_knife": "2025-05-31 20:08:24 +0000"
+      "cod": "2025-05-31 20:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-31 20:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-31 20:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-31 20:02:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-31 20:03:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fish_stew": "2025-05-31 20:03:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-31 20:04:36 +0000"
     },
     "done": true
   },
@@ -3151,45 +3189,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-05-31 20:02:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-31 20:02:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 20:06:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-31 20:09:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-31 20:08:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 20:06:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-05-31 20:13:00 +0000"
     },
     "done": true
   },
@@ -3229,39 +3237,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-05-31 20:03:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "tomato": "2025-05-31 20:12:40 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 20:06:45 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-05-31 20:16:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 20:06:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-05-31 20:09:36 +0000"
     },
     "done": true
   },
@@ -3274,36 +3258,6 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 20:06:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-05-31 20:13:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-05-31 20:13:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-05-31 20:09:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "fish_stew": "2025-05-31 20:03:34 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-05-31 20:09:36 +0000"
     },
     "done": true
   },
@@ -3325,15 +3279,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
-      "has_sand": "2025-05-31 20:04:36 +0000"
+      "has_iron_knife": "2025-05-31 20:08:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
-      "has_cod": "2025-05-31 20:02:40 +0000"
+      "has_iron_knife": "2025-05-31 20:08:24 +0000"
     },
     "done": true
   },
@@ -3343,9 +3297,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_cod": "2025-05-31 20:02:40 +0000"
+      "has_bone_meal": "2025-05-31 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-31 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-31 20:09:36 +0000"
     },
     "done": true
   },
@@ -3358,6 +3330,198 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-31 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-05-31 20:12:40 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-05-31 20:13:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-05-31 20:13:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-05-31 20:13:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-05-31 20:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-31 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_arcane_wand": {
+    "criteria": {
+      "cast": "2025-05-31 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_fire": {
+    "criteria": {
+      "book": "2025-05-31 20:30:27 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_priest": {
+    "criteria": {
+      "book": "2025-05-31 20:30:55 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_arcane": {
+    "criteria": {
+      "book": "2025-05-31 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_frost": {
+    "criteria": {
+      "book": "2025-05-31 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_frost": {
+    "criteria": {
+      "bind": "2025-05-31 20:32:00 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_golden_kite_shield": {
+    "criteria": {
+      "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-31 20:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_golden_kite_shield": {
+    "criteria": {
+      "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_frost_book": {
+    "criteria": {
+      "cast": "2025-05-31 20:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-31 20:48:11 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-31 20:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-31 20:49:47 +0000"
     },
     "done": true
   },

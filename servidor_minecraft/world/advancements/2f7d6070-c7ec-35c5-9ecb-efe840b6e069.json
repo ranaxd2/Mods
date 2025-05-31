@@ -273,7 +273,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-31 17:06:06 +0000",
       "minecraft:spider": "2025-05-31 19:03:23 +0000",
-      "minecraft:zombie": "2025-05-31 16:39:05 +0000"
+      "minecraft:zombie": "2025-05-31 16:39:05 +0000",
+      "minecraft:drowned": "2025-05-31 20:24:35 +0000"
     },
     "done": false
   },
@@ -429,9 +430,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-31 20:57:41 +0000",
       "rotten_flesh": "2025-05-31 16:39:47 +0000",
       "cooked_beef": "2025-05-31 16:51:29 +0000",
-      "beef": "2025-05-31 16:47:23 +0000"
+      "beef": "2025-05-31 16:47:23 +0000",
+      "melon_slice": "2025-05-31 20:57:21 +0000"
     },
     "done": false
   },
@@ -523,6 +526,7 @@
       "minecraft:river": "2025-05-31 17:38:17 +0000",
       "minecraft:swamp": "2025-05-31 16:43:07 +0000",
       "minecraft:birch_forest": "2025-05-31 18:29:57 +0000",
+      "minecraft:lush_caves": "2025-05-31 20:47:47 +0000",
       "minecraft:windswept_savanna": "2025-05-31 16:51:50 +0000"
     },
     "done": false
@@ -1433,6 +1437,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-31 20:53:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-31 20:53:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-31 19:25:09 +0000"
@@ -1445,9 +1461,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-31 20:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-31 19:44:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-31 20:53:07 +0000"
     },
     "done": true
   },
@@ -1487,6 +1515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-31 20:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-31 19:44:30 +0000"
@@ -1523,15 +1557,33 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-05-31 19:24:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-31 19:25:09 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
     },
     "done": true
   },
@@ -1553,9 +1605,27 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-05-31 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-31 20:53:07 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
     },
     "done": true
   },
@@ -1613,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-31 20:53:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-05-31 19:24:19 +0000"
@@ -1649,6 +1725,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-31 20:49:22 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-05-31 19:24:58 +0000"
@@ -1676,6 +1770,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-31 19:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:50:24 +0000"
     },
     "done": true
   },
