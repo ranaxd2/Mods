@@ -28,3 +28,7 @@
 [00:20:52] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=28}
 [00:20:54] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=27}
 [00:20:54] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=26}
+[00:29:12] [Server thread/INFO]: LORDTECA lost connection: Disconnected
+[00:29:12] [Server thread/INFO]: LORDTECA left the game
+[00:32:29] [Server thread/INFO]: _Angelplay_ lost connection: Disconnected
+[00:32:29] [Server thread/INFO]: _Angelplay_ left the game
