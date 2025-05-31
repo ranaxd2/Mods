@@ -622,3 +622,114 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [17:27:02] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to zTJonDMiel]
 [17:27:30] [Server thread/INFO]: Ph8l1femo[/127.242.48.104:41463] logged in with entity id 83164 at (-1853.532335271662, 179.7531999805212, -503.908318956295)
 [17:27:30] [Server thread/INFO]: Ph8l1femo joined the game
+[17:29:06] [Server thread/INFO]: Villager class_1646['Farmer'/83260, l='ServerLevel[world]', x=-1785.30, y=171.00, z=-479.50] died, message: 'Farmer froze to death'
+[17:29:18] [Server thread/INFO]: Villager class_1646['Librarian'/83294, l='ServerLevel[world]', x=-1759.50, y=156.00, z=-522.50] died, message: 'Librarian froze to death'
+[17:30:04] [Server thread/INFO]: Villager class_1646['Villager'/83182, l='ServerLevel[world]', x=-1826.89, y=164.25, z=-486.30] died, message: 'Villager was slain by Zombie'
+[17:31:06] [Server thread/INFO]: Villager class_1646['Villager'/83191, l='ServerLevel[world]', x=-1854.82, y=178.50, z=-523.50] died, message: 'Villager suffocated in a wall'
+[17:32:48] [Server thread/INFO]: [Not Secure] <GHOST> layse
+[17:32:57] [Server thread/INFO]: [Not Secure] <GHOST> me haces tp porf
+[17:33:56] [Server thread/INFO]: Villager class_1646['Nitwit'/83270, l='ServerLevel[world]', x=-1841.50, y=179.00, z=-585.70] died, message: 'Nitwit froze to death'
+[17:36:32] [Server thread/INFO]: Villager class_1646['Nitwit'/83220, l='ServerLevel[world]', x=-1812.51, y=176.00, z=-557.54] died, message: 'Nitwit froze to death'
+[17:36:46] [Server thread/INFO]: Villager class_1646['Cartographer'/83237, l='ServerLevel[world]', x=-1760.47, y=156.00, z=-522.90] died, message: 'Cartographer froze to death'
+[17:37:14] [Server thread/INFO]: [Not Secure] <LORDTECA> a
+[17:37:16] [Server thread/INFO]: [Not Secure] <LORDTECA> donde
+[17:37:18] [Server thread/INFO]: [Not Secure] <LORDTECA> y pq
+[17:40:04] [Server thread/INFO]: Villager class_1646['Cartographer'/83262, l='ServerLevel[world]', x=-1824.65, y=163.75, z=-484.77] died, message: 'Cartographer was slain by Zombie'
+[17:42:36] [Server thread/INFO]: [Not Secure] <LORDTECA> ñato
+[17:42:40] [Server thread/INFO]: [Not Secure] <LORDTECA> revisa wasap
+[17:43:03] [Server thread/INFO]: [Not Secure] <GHOST> ya fue jaja
+[17:43:54] [Server thread/INFO]: [LORDTECA: Shrinking the world border to 8000.0 block(s) wide over 1 second(s)]
+[17:44:05] [Server thread/INFO]: [Not Secure] <Ph8l1femo> estoy demaciado lejos
+[17:44:09] [Server thread/INFO]: [Not Secure] <Ph8l1femo> xd
+[17:44:15] [Server thread/INFO]: [Not Secure] <LORDTECA> donde xd
+[17:44:20] [Server thread/INFO]: [Not Secure] <LORDTECA> coords
+[17:44:21] [Server thread/INFO]: [Not Secure] <Ph8l1femo> en mi casa
+[17:44:30] [Server thread/INFO]: [Not Secure] <LORDTECA> masomenos coords?
+[17:44:36] [Server thread/INFO]: [Not Secure] <LORDTECA> distancia de bloques
+[17:44:40] [Server thread/INFO]: [Not Secure] <LORDTECA> cerca del borde?
+[17:44:40] [Server thread/INFO]: [Not Secure] <GHOST> como se ve
+[17:44:41] [Server thread/INFO]: [Not Secure] <Ph8l1femo> te paso 1200/2329
+[17:45:01] [Server thread/INFO]: [Not Secure] <Ph8l1femo> toy demaciado lejos
+[17:45:03] [Server thread/INFO]: [Not Secure] <Ph8l1femo> xd
+[17:45:13] [Server thread/INFO]: [LORDTECA: Shrinking the world border to 7000.0 block(s) wide over 1 second(s)]
+[17:45:15] [Server thread/INFO]: [Not Secure] <LORDTECA> igual
+[17:45:24] [Server thread/INFO]: [Not Secure] <LORDTECA> si te encuentran o te matan fue
+[17:45:37] [Server thread/INFO]: [Not Secure] <GHOST> nahh
+[17:45:41] [Server thread/INFO]: [Not Secure] <GHOST> pero
+[17:45:45] [Server thread/INFO]: [Not Secure] <Ph8l1femo> quiero ver q lo intenten
+[17:45:51] [Server thread/INFO]: [Not Secure] <GHOST> duerman ps
+[17:47:35] [Server thread/INFO]: [Not Secure] <LORDTECA> haber si sobrevives ñato
+[17:47:38] [Server thread/INFO]: [Not Secure] <LORDTECA> hasta el lunes
+[17:47:46] [Server thread/INFO]: [Not Secure] <Ph8l1femo> xd
+[17:48:42] [Server thread/INFO]: Villager class_1646['Fletcher'/83238, l='ServerLevel[world]', x=-1818.50, y=167.00, z=-498.30] died, message: 'Fletcher froze to death'
+[17:48:46] [Server thread/INFO]: Villager class_1646['Weaponsmith'/83266, l='ServerLevel[world]', x=-1839.50, y=178.00, z=-557.70] died, message: 'Weaponsmith froze to death'
+[17:50:18] [Server thread/INFO]: Villager class_1646['Villager'/83186, l='ServerLevel[world]', x=-1868.70, y=178.28, z=-529.50] died, message: 'Villager froze to death'
+[17:55:38] [Server thread/INFO]: Villager class_1646['Nitwit'/83193, l='ServerLevel[world]', x=-1843.50, y=178.00, z=-555.49] died, message: 'Nitwit froze to death'
+[17:58:07] [Server thread/INFO]: GHOST lost connection: Timed out
+[17:58:07] [Server thread/INFO]: GHOST left the game
+[17:59:34] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to -1325.500000, 76.000000, -285.500000]
+[18:01:03] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[18:01:41] [Server thread/INFO]: [Not Secure] <Ph8l1femo> duerme nero
+[18:01:51] [Server thread/INFO]: [Not Secure] <LORDTECA> esta buscando el airdrop
+[18:01:52] [Server thread/INFO]: [Not Secure] <LORDTECA> xd
+[18:01:55] [Server thread/INFO]: [Not Secure] <LORDTECA> estamos en llamada
+[18:02:00] [Server thread/INFO]: [Not Secure] <Ph8l1femo> tmr
+[18:02:09] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[18:02:13] [Server thread/INFO]: [Not Secure] <Ph8l1femo> yo iria al airdrop
+[18:02:25] [Server thread/INFO]: [Not Secure] <Ph8l1femo> pero tengo q hacer otras cosas antes de ir
+[18:02:27] [Server thread/INFO]: [Not Secure] <LORDTECA> corre y mata al cejon
+[18:02:39] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[18:04:58] [Server thread/INFO]: zTJonDMiel has made the advancement [Hot Stuff]
+[18:05:13] [Server thread/INFO]: GHOST[/127.243.98.80:48033] logged in with entity id 104766 at (-888.6282357779041, 77.0, 87.53670845659892)
+[18:05:13] [Server thread/INFO]: GHOST joined the game
+[18:05:57] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[18:06:56] [Server thread/INFO]: jerock_123[/127.169.92.104:42815] logged in with entity id 106102 at (-747.7292984041184, 58.0, -417.30000001192093)
+[18:06:56] [Server thread/INFO]: jerock_123 joined the game
+[18:07:31] [Server thread/INFO]: [LORDTECA: Set own game mode to Spectator Mode]
+[18:08:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1857, y=182, z=-529} class_2338{x=-1856, y=181, z=-530}
+[18:09:11] [Server thread/INFO]: zTJonDMiel lost connection: Disconnected
+[18:09:11] [Server thread/INFO]: zTJonDMiel left the game
+[18:09:29] [Server thread/INFO]: [LORDTECA: Teleported LORDTECA to jerock_123]
+[18:11:00] [Server thread/INFO]: [LORDTECA: Set own game mode to Creative Mode]
+[18:11:17] [Server thread/INFO]: [LORDTECA: Teleported jerock_123 to LORDTECA]
+[18:11:57] [Server thread/INFO]: [Not Secure] <jerock_123> warden
+[18:13:02] [Server thread/INFO]: jerock_123 has made the advancement [Sneak 100]
+[18:13:16] [Server thread/INFO]: [LORDTECA: Teleported jerock_123 to LORDTECA]
+[18:13:20] [Server thread/INFO]: [Not Secure] <LORDTECA> xd
+[18:13:22] [Server thread/INFO]: [Not Secure] <LORDTECA> q miedo
+[18:14:11] [Server thread/INFO]: [Not Secure] <LORDTECA> ayuda a construir
+[18:15:21] [Server thread/INFO]: [Not Secure] <LORDTECA> ven
+[18:15:42] [Server thread/INFO]: [Not Secure] <LORDTECA> has el zotano
+[18:19:27] [Server thread/INFO]: [Not Secure] <LORDTECA> consigue diamantes
+[18:19:52] [Server thread/INFO]: [Not Secure] <GHOST> .duerman porfa
+[18:21:28] [Server thread/INFO]: jerock_123 has reached the goal [Choose your path]
+[18:23:07] [Server thread/INFO]: [Not Secure] <LORDTECA> ayuda a construir feo
+[18:26:34] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:arcane_missile Entity not found: 116565
+[18:27:34] [Server thread/INFO]: jerock_123 was slain by LORDTECA
+[18:27:40] [Server thread/INFO]: [Not Secure] <GHOST> ajahahj
+[18:27:44] [Server thread/INFO]: [LORDTECA: Teleported jerock_123 to LORDTECA]
+[18:27:49] [Server thread/INFO]: [Not Secure] <GHOST> F
+[18:27:56] [Server thread/INFO]: [Not Secure] <jerock_123> con game mode nomas puedes
+[18:27:59] [Server thread/INFO]: [Not Secure] <LORDTECA> si esta fuerte xd
+[18:28:21] [Server thread/INFO]: [Not Secure] <LORDTECA> consigue diamantes
+[18:30:12] [pool-4-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp]] from pos class_2338{x=-2123, y=81, z=-2715}
+[18:32:16] [Server thread/INFO]: GHOST has made the advancement [Best Friends Forever]
+[18:32:18] [Server thread/INFO]: jerock_123 has made the advancement [Hot Stuff]
+[18:32:35] [Server thread/INFO]: [Not Secure] <Ph8l1femo> oe layse
+[18:32:37] [Server thread/INFO]: [Not Secure] <LORDTECA> q
+[18:32:42] [Server thread/INFO]: [Not Secure] <Ph8l1femo> que es el soulfrost?
+[18:33:07] [Server thread/INFO]: [Not Secure] <LORDTECA> es para armadura
+[18:33:16] [Server thread/INFO]: [Not Secure] <LORDTECA> para tener resistencia a la magia
+[18:33:25] [Server thread/INFO]: [Not Secure] <LORDTECA> y mejor contra la magia de hielo
+[18:33:30] [Server thread/INFO]: [Not Secure] <Ph8l1femo> aa
+[18:37:32] [Server thread/INFO]: zTJonDMiel[/127.191.74.105:43907] logged in with entity id 125435 at (-1323.9921524282167, 73.0, -299.58422776095006)
+[18:37:32] [Server thread/INFO]: zTJonDMiel joined the game
+[18:37:37] [Server thread/INFO]: rana_xd123[/127.30.230.40:49241] logged in with entity id 125724 at (-2215.233168682817, 138.0, -1617.2287772847446)
+[18:37:37] [Server thread/INFO]: rana_xd123 joined the game
+[18:37:47] [Server thread/INFO]: [Not Secure] <rana_xd123> ctm
+[18:37:49] [Server thread/INFO]: [Not Secure] <rana_xd123> layse
+[18:37:52] [Server thread/INFO]: [Not Secure] <LORDTECA> q
+[18:37:54] [Server thread/INFO]: [Not Secure] <rana_xd123> ven a ayudarme
+[18:38:09] [Server thread/INFO]: [Not Secure] <LORDTECA> deja termino de poner
+[18:38:19] [Server thread/INFO]: [Not Secure] <LORDTECA> voy a la casa
+[18:38:32] [Server thread/INFO]: [Not Secure] <LORDTECA> oe el limite de mundo ya esta

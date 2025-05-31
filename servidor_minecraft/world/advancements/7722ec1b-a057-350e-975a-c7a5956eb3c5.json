@@ -681,6 +681,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-31 02:14:52 +0000",
       "minecraft:stray": "2025-05-31 15:16:16 +0000",
+      "minecraft:magma_cube": "2025-05-31 18:02:57 +0000",
       "minecraft:spider": "2025-05-31 03:15:07 +0000",
       "minecraft:zombie": "2025-05-30 23:08:05 +0000",
       "minecraft:creeper": "2025-05-31 03:15:13 +0000"
@@ -863,8 +864,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-05-31 18:01:24 +0000",
+      "minecraft:beach": "2025-05-31 18:02:32 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-31 18:01:00 +0000",
       "minecraft:forest": "2025-05-31 03:00:27 +0000",
       "minecraft:windswept_forest": "2025-05-30 23:11:09 +0000",
+      "minecraft:river": "2025-05-31 17:56:51 +0000",
       "minecraft:windswept_savanna": "2025-05-31 02:51:42 +0000"
     },
     "done": false
@@ -1967,15 +1972,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-31 18:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-05-31 17:22:32 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 17:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-05-31 16:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-31 17:56:51 +0000"
     },
     "done": true
   },
@@ -1988,6 +2011,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-05-31 16:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-31 17:33:48 +0000"
     },
     "done": true
   },
@@ -2024,6 +2053,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-05-31 17:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-31 17:39:24 +0000"
     },
     "done": true
   },
@@ -2078,6 +2113,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-31 17:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-31 17:54:16 +0000"
     },
     "done": true
   },
@@ -2153,9 +2194,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-31 18:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 17:22:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-05-31 17:39:32 +0000"
     },
     "done": true
   },
@@ -2189,6 +2242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-31 17:56:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-31 16:51:37 +0000"
@@ -2219,6 +2278,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/gold_nugget_from_blasting_wand_fire": {
+    "criteria": {
+      "has_wand_fire": "2025-05-31 18:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 17:22:31 +0000"
@@ -2237,9 +2302,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-31 17:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-05-31 17:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 17:54:16 +0000"
     },
     "done": true
   },
@@ -2252,6 +2329,18 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-31 16:51:37 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/gold_nugget_from_smelting_wand_fire": {
+    "criteria": {
+      "has_wand_fire": "2025-05-31 18:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-31 17:33:48 +0000"
     },
     "done": true
   },
@@ -2282,6 +2371,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-31 16:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-31 18:05:57 +0000"
     },
     "done": true
   },
