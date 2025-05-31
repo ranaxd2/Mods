@@ -2514,6 +2514,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 19:04:28 +0000"
@@ -2532,9 +2538,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-31 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
     },
     "done": true
   },
@@ -2556,9 +2574,21 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-05-31 17:28:20 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
     },
     "done": true
   },
@@ -2622,9 +2652,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-31 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
     },
     "done": true
   },
@@ -2649,6 +2691,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-31 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-31 20:17:13 +0000"
     },
     "done": true
   },

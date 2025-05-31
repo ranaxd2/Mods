@@ -653,7 +653,8 @@
       "minecraft:phantom": "2025-05-31 18:26:10 +0000",
       "minecraft:spider": "2025-05-31 03:15:30 +0000",
       "minecraft:zombie": "2025-05-31 02:58:02 +0000",
-      "minecraft:creeper": "2025-05-31 03:33:41 +0000"
+      "minecraft:creeper": "2025-05-31 03:33:41 +0000",
+      "minecraft:zombie_villager": "2025-05-31 20:04:10 +0000"
     },
     "done": false
   },
@@ -1215,7 +1216,115 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 19:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_chest": {
+    "criteria": {
+      "has_wizard_robe_chest": "2025-05-31 19:40:38 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_legs": {
+    "criteria": {
+      "has_wizard_robe_legs": "2025-05-31 19:40:38 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_legs": {
+    "criteria": {
+      "has_wizard_robe_legs": "2025-05-31 19:40:38 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_chest": {
+    "criteria": {
+      "has_wizard_robe_chest": "2025-05-31 19:40:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 19:41:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 19:41:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 19:41:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-05-31 19:41:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-05-31 19:41:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-05-31 19:41:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-05-31 19:41:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-31 19:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 19:43:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-31 19:43:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 19:43:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-05-31 19:43:10 +0000"
     },
@@ -1227,21 +1336,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
-      "has_egg": "2025-05-31 19:43:10 +0000"
+      "has_iron_knife": "2025-05-31 19:46:14 +0000"
     },
     "done": true
   },
-  "paladins:recipes/misc/iron_nugget_from_blasting_paladin_armor_chest": {
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
-      "has_paladin_armor_chest": "2025-05-31 19:55:31 +0000"
+      "cooked_bacon": "2025-05-31 19:46:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
-      "has_lapis_lazuli": "2025-05-31 19:37:23 +0000"
+      "cooked_bacon": "2025-05-31 19:46:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-05-31 19:46:18 +0000"
     },
     "done": true
   },
@@ -1254,12 +1369,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 19:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-05-31 19:37:23 +0000"
     },
     "done": true
   },
@@ -1281,39 +1390,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-31 19:46:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 19:41:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 19:51:23 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-05-31 19:41:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 19:51:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-05-31 19:43:10 +0000"
     },
     "done": true
   },
@@ -1329,69 +1414,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 19:41:39 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_chest": {
-    "criteria": {
-      "has_wizard_robe_chest": "2025-05-31 19:40:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 19:51:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 19:43:10 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_feet": {
-    "criteria": {
-      "has_wizard_robe_feet": "2025-05-31 19:51:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-05-31 19:46:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-05-31 19:46:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-05-31 19:41:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-05-31 19:41:41 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_feet": {
-    "criteria": {
-      "has_wizard_robe_feet": "2025-05-31 19:51:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 19:41:39 +0000"
     },
     "done": true
   },
@@ -1401,33 +1426,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-31 19:24:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 19:51:23 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_legs": {
-    "criteria": {
-      "has_wizard_robe_legs": "2025-05-31 19:40:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2025-05-31 19:41:44 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_legs": {
-    "criteria": {
-      "has_wizard_robe_legs": "2025-05-31 19:40:38 +0000"
     },
     "done": true
   },
@@ -1437,33 +1438,45 @@
     },
     "done": true
   },
-  "paladins:recipes/misc/iron_nugget_from_smelting_paladin_armor_chest": {
-    "criteria": {
-      "has_paladin_armor_chest": "2025-05-31 19:55:31 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_chest": {
-    "criteria": {
-      "has_wizard_robe_chest": "2025-05-31 19:40:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-05-31 19:46:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 19:51:23 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_feet": {
     "criteria": {
-      "fried_egg": "2025-05-31 19:43:10 +0000"
+      "has_wizard_robe_feet": "2025-05-31 19:51:57 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_feet": {
+    "criteria": {
+      "has_wizard_robe_feet": "2025-05-31 19:51:57 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_blasting_paladin_armor_chest": {
+    "criteria": {
+      "has_paladin_armor_chest": "2025-05-31 19:55:31 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_smelting_paladin_armor_chest": {
+    "criteria": {
+      "has_paladin_armor_chest": "2025-05-31 19:55:31 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_blasting_archer_armor_head": {
+    "criteria": {
+      "has_archer_armor_head": "2025-05-31 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_smelting_archer_armor_head": {
+    "criteria": {
+      "has_archer_armor_head": "2025-05-31 20:02:47 +0000"
     },
     "done": true
   },
