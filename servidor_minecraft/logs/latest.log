@@ -1,36 +1,390 @@
-[00:02:11] [Server thread/INFO]: LORDTECA[/127.96.75.250:46667] logged in with entity id 69744 at (-1895.628809585962, -1.0, -1312.300000011921)
-[00:02:11] [Server thread/INFO]: LORDTECA joined the game
-[00:04:11] [Server thread/INFO]: zTJonDMiel fell from a high place
-[00:04:58] [Server thread/INFO]: zTJonDMiel fell from a high place
-[00:05:57] [Server thread/INFO]: zTJonDMiel lost connection: Disconnected
-[00:05:57] [Server thread/INFO]: zTJonDMiel left the game
-[00:06:51] [Server thread/WARN]: _Jhoo_ moved too quickly! -0.7191175427539065,-10.806526110008988,2.4262555944550854
-[00:07:01] [Server thread/INFO]: _Jhoo_ lost connection: Disconnected
-[00:07:01] [Server thread/INFO]: _Jhoo_ left the game
-[00:14:07] [Server thread/INFO]: [Not Secure] <rana_xd123> voy a eliminar los items del piso
-[00:14:10] [Server thread/INFO]: [Not Secure] <rana_xd123> ojo
-[00:14:12] [Server thread/INFO]: [Not Secure] <rana_xd123> 1
-[00:14:16] [Server thread/INFO]: [Not Secure] <rana_xd123> 2
-[00:14:19] [Server thread/INFO]: [Not Secure] <rana_xd123> 3
-[00:14:21] [Server thread/INFO]: [Not Secure] <rana_xd123> 4
-[00:14:23] [Server thread/INFO]: [Not Secure] <rana_xd123> 5
-[00:14:25] [Server thread/INFO]: [Not Secure] <rana_xd123> ya
-[00:14:56] [Server thread/INFO]: Killed 91 entities
-[00:17:52] [Worker-Main-3/WARN]: Couldn't find template pool reference: ctov:pillager_outpost/mountain/towers
-[00:18:59] [Server thread/INFO]: rana_xd123 lost connection: Disconnected
-[00:18:59] [Server thread/INFO]: rana_xd123 left the game
-[00:20:11] [pool-4-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas]] from pos class_2338{x=-2091, y=86, z=-2037}
-[00:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5729ms or 114 ticks behind
-[00:20:17] [Server thread/WARN]: LORDTECA moved too quickly! 3.1031665059263105,-1.0,-9.612069240995652
-[00:20:49] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=28}
-[00:20:49] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=27}
-[00:20:49] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=26}
-[00:20:52] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=28}
-[00:20:54] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=27}
-[00:20:54] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=42, y=-58, z=26}
-[00:29:12] [Server thread/INFO]: LORDTECA lost connection: Disconnected
-[00:29:12] [Server thread/INFO]: LORDTECA left the game
-[00:32:29] [Server thread/INFO]: _Angelplay_ lost connection: Disconnected
-[00:32:29] [Server thread/INFO]: _Angelplay_ left the game
-[00:42:37] [Server thread/INFO]: Ph8l1femo[/127.242.48.104:50943] logged in with entity id 82721 at (-617.8230611941235, 35.0, 280.86026689868305)
-[00:42:37] [Server thread/INFO]: Ph8l1femo joined the game
+[01:56:06] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[01:56:06] [ForkJoinPool-1-worker-1/WARN]: Mod ctov uses the version 3.5.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:56:06] [main/INFO]: Loading 114 mods:
+	- amendments 1.21-1.2.24
+	- archers 2.4.11+1.21.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- azurelibarmor 3.0.12
+	- balm 21.0.46
+	   \-- kuma_api 21.0.5
+	- bettercombat 2.2.4+1.21.1
+	- betterdeserttemples 1.21.1-Fabric-4.1.5
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.21.1-Fabric-5.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterendisland 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.1-Fabric-3.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.21.1-Fabric-5.1.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterwitchhuts 1.21.1-Fabric-4.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- bosses_of_mass_destruction 1.10.2-1.21.1
+	   \-- multipart_entities 1.7-1.21
+	- bundleapi 1.0.4
+	- cardinal-components 6.1.2
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-block 6.1.2
+	   |-- cardinal-components-chunk 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   |-- cardinal-components-item 6.1.2
+	   |-- cardinal-components-level 6.1.2
+	   |-- cardinal-components-scoreboard 6.1.2
+	   \-- cardinal-components-world 6.1.2
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- ctov 3.5.9a
+	- fabric-api 0.116.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.5+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.1+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.3+a15b7ead19
+	   |-- fabric-data-generation-api-v1 20.2.29+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.3+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.3+kotlin.2.1.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.1
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.1
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- farmersdelight 1.21.1-3.0.5+refabricated
+	   \-- mm 2.3
+	- geckolib 4.7.5.1
+	- java 21
+	- lithostitched 1.4.2
+	- minecraft 1.21.1
+	- moonlight 1.21-2.18.13
+	- paladins 2.4.13+1.21.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- playeranimator 2.0.1+1.21.1
+	- ranged_weapon_api 2.1.1+1.21.1
+	- ribbits 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- runes 1.1.3+1.21.1
+	- shield_api 2.0.2+1.21.1
+	- spell_engine 1.6.12+1.21.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- spell_power 1.3.0+1.21.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- structure_pool_api 1.1.3+1.21.1
+	- supplementaries 1.21-3.1.8
+	   \-- mixinsquared 0.1.1
+	- tectonic 2.4.3
+	- terralith 2.5.8
+	- trinkets 3.10.0
+	- usefulbackpacks 3.0.2.129
+	- uteamcore 5.6.2.384
+	- waystones 21.1.19
+	- wizards 2.4.12+1.21.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- yungsapi 1.21.1-Fabric-5.1.5
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsbridges 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- yungsextras 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+[01:56:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mods/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:56:07] [main/INFO]: Compatibility level set to JAVA_17
+[01:56:07] [main/INFO]: Compatibility level set to JAVA_21
+[01:56:07] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:08] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
+[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_634 was not found uteamcore.mixins.json:ClientPacketListenerMixin from mod uteamcore
+[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_310 was not found uteamcore.mixins.json:MinecraftMixin from mod uteamcore
+[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_309 (java.lang.ClassNotFoundException: net/minecraft/class_309)
+[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_309 was not found uteamcore.mixins.json:KeyboardHandlerMixin from mod uteamcore
+[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[01:56:08] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[01:56:08] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[01:56:08] [main/ERROR]: uteamcore.mixins.json:UContainerMenuScreenMixin from mod uteamcore: Super class 'net.minecraft.class_465' of UContainerMenuScreenMixin was not found in the hierarchy of target class 'info/u_team/u_team_core/screen/UContainerMenuScreen'
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super class 'net.minecraft.class_465' of UContainerMenuScreenMixin was not found in the hierarchy of target class 'info/u_team/u_team_core/screen/UContainerMenuScreen'
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:593) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:884) [sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:568) [sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) [sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) [sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) [sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) [sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) [sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) [fabric-loader-0.16.14.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) [?:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:473) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:56:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:56:16] [main/INFO]: Loaded config amendments-common.json
+[01:56:17] [main/INFO]: Reflections took 44 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:17] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:17] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:17] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:17] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:17] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:17] [main/INFO]: Customized Bundles!
+[01:56:17] [main/INFO]: Loaded config farmersdelight-common.json
+[01:56:18] [main/INFO]: Definitely not up to no good
+[01:56:18] [main/INFO]: Reflections took 16 ms to scan 1 urls, producing 6 keys and 40 values
+[01:56:18] [main/INFO]: Reflections took 11 ms to scan 1 urls, producing 6 keys and 40 values
+[01:56:18] [main/INFO]: Registering Ribbit instruments...
+[01:56:18] [main/INFO]: Registering Ribbit umbrella types...
+[01:56:18] [main/INFO]: Registering Ribbit professions...
+[01:56:18] [main/INFO]: Shield API initialized!
+[01:56:18] [main/INFO]: Loaded config supplementaries-common.json
+[01:56:19] [Version Check/INFO]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks_fabric.json
+[01:56:19] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:19] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:19] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:19] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:19] [Version Check/INFO]: [usefulbackpacks] Found status: UP_TO_DATE Current: 3.0.2.129 Target: null
+[01:56:19] [Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore_fabric.json
+[01:56:19] [Version Check/INFO]: [uteamcore] Found status: UP_TO_DATE Current: 5.6.2.384 Target: null
+[01:56:20] [main/INFO]: Initialized block sets in 14ms
+[01:56:20] [main/ERROR]: No data fixer registered for falling_lantern
+[01:56:20] [main/ERROR]: No data fixer registered for dispenser_minecart
+[01:56:20] [main/ERROR]: No data fixer registered for falling_urn
+[01:56:20] [main/ERROR]: No data fixer registered for falling_ash
+[01:56:20] [main/ERROR]: No data fixer registered for falling_sack
+[01:56:20] [main/ERROR]: No data fixer registered for brick_projectile
+[01:56:20] [main/ERROR]: No data fixer registered for slimeball_projectile
+[01:56:20] [main/ERROR]: No data fixer registered for bomb
+[01:56:20] [main/ERROR]: No data fixer registered for cannonball
+[01:56:20] [main/ERROR]: No data fixer registered for rope_arrow
+[01:56:20] [main/ERROR]: No data fixer registered for slingshot_projectile
+[01:56:20] [main/INFO]: Loaded config moonlight-common.json
+[01:56:20] [main/INFO]: Initialized color sets in 20ms
+[01:56:20] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 10, 2, 1] ms
+[01:56:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:56:20] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 30 ms
+[01:56:23] [main/INFO]: Loaded 2299 recipes
+[01:56:23] [main/ERROR]: Parsing error loading custom advancement supplementaries:adventure/way_sign: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: supplementaries:way_sing_oak
+[01:56:23] [main/INFO]: Loaded 1942 advancements
+[01:56:23] [main/INFO]: Applied 7 data villager trades
+[01:56:23] [main/INFO]: Loaded 27 flute songs
+[01:56:23] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:ingots/lead, c:storage_blocks/lead
+[01:56:24] [main/INFO]: Registering custom dispenser behaviors
+[01:56:24] [main/INFO]: Applied 1000 biome modifications to 158 of 159 new biomes in 48.52 ms
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:acolyte_wand
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aeternium_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aeternium_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_heavy_crossbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_holy_staff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_longbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:aether_mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:aether_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:aether_wizard_staff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:anchor
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:axe
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:battlestaff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_heavy
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:bow_two_handed_light
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claw
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:composite_longbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:coral_blade
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_heavy
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:crossbow_two_handed_light
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:crystal_longbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:cutlass
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:dagger
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_staff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_holy_wand
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:diamond_mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:diamond_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:diamond_sword
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:double_axe
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:fist
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:flint_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:glaive
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:golden_mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:golden_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:golden_sword
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:halberd
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:heavy_axe
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:heavy_crossbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_staff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:holy_wand
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:iron_mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:iron_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:iron_sword
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:katana
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:lance
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_heavy_crossbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_staff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_holy_wand
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_longbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:netherite_mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:netherite_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:netherite_sword
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:pickaxe
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:rapier
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:royal_longbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_heavy_crossbow
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:ruby_holy_staff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: archers:ruby_spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:scythe
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sickle
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: farmersdelight:skillet
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:soul_knife
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:spear
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:staff
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_arcane
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_crystal_arcane
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_fire
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_frost
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_arcane
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_fire
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_netherite_frost
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_ruby_fire
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_smaragdant_frost
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:staff_wizard
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_claymore
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:stone_mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:stone_sword
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:sword
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:trident
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:trident
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:twin_blade
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:vanilla_mace
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: bettercombat:wand
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_arcane
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_fire
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_frost
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_arcane
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_fire
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_netherite_frost
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: wizards:wand_novice
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: paladins:wooden_great_hammer
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: minecraft:wooden_sword
+[01:56:24] [Server thread/INFO]: [STDOUT]: Loaded container: supplementaries:wrench
+[01:56:24] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 4371 bytes (in 1 string chunks with the size of 10000)
+[01:56:24] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 2 string chunks with the size of 10000)
+[01:56:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:56:24] [Server thread/INFO]: Loading properties
+[01:56:24] [Server thread/INFO]: Default game type: SURVIVAL
+[01:56:24] [Server thread/INFO]: Generating keypair
+[01:56:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:56:24] [Server thread/INFO]: Using epoll channel type
+[01:56:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:56:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:56:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:56:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:56:24] [Server thread/INFO]: Preparing level "world"
+[01:56:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:56:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:56:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:56:30] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:56:30] [Server thread/INFO]: Time elapsed: 1085 ms
+[01:56:30] [Server thread/INFO]: Done (5.489s)! For help, type "help"
+[01:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4035ms or 80 ticks behind
+[02:00:08] [Server thread/INFO]: Ph8l1femo[/127.242.48.104:55807] logged in with entity id 15 at (-635.0958272836365, 27.0, 268.42516568147204)
+[02:00:08] [Server thread/INFO]: Ph8l1femo joined the game
+[02:00:34] [Server thread/INFO]: Ph8l1femo was slain by Skeleton
+[02:09:37] [Server thread/INFO]: zTJonDMiel[/127.82.222.47:44555] logged in with entity id 2546 at (-77.22331887240317, 84.0, 44.240549005677885)
+[02:09:37] [Server thread/INFO]: zTJonDMiel joined the game
+[02:11:43] [Server thread/INFO]: [Not Secure] <zTJonDMiel> quien eres mano
+[02:11:57] [Server thread/INFO]: [Not Secure] <Ph8l1femo> quien eres tu mano
+[02:12:08] [Server thread/INFO]: [Not Secure] <zTJonDMiel> henry?
+[02:12:16] [Server thread/INFO]: [Not Secure] <Ph8l1femo> marco?
+[02:13:41] [Server thread/INFO]: [Not Secure] <Ph8l1femo> quien eres pe mano
+[02:13:53] [Server thread/INFO]: [Not Secure] <zTJonDMiel> niels
+[02:14:00] [Server thread/INFO]: [Not Secure] <zTJonDMiel> xd tu
+[02:14:04] [Server thread/INFO]: [Not Secure] <Ph8l1femo> jhery
+[02:14:09] [Server thread/INFO]: [Not Secure] <zTJonDMiel> eyyyyyy
