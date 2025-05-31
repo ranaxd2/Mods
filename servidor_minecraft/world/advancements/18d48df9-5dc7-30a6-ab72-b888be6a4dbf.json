@@ -1291,5 +1291,17 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/iron_nugget_from_smelting_iron_great_hammer": {
+    "criteria": {
+      "has_iron_great_hammer": "2025-05-31 00:54:09 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_blasting_iron_great_hammer": {
+    "criteria": {
+      "has_iron_great_hammer": "2025-05-31 00:54:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
