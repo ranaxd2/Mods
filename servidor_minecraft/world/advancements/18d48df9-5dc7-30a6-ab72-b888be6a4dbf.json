@@ -1303,5 +1303,17 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_chest": {
+    "criteria": {
+      "has_wizard_robe_chest": "2025-05-31 00:55:59 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_chest": {
+    "criteria": {
+      "has_wizard_robe_chest": "2025-05-31 00:55:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
