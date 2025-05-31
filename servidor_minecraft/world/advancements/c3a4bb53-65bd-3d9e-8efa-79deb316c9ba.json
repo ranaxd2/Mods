@@ -106,6 +106,7 @@
       "mutton": "2025-05-29 23:18:15 +0000",
       "apple": "2025-05-29 23:58:06 +0000",
       "bread": "2025-05-29 23:49:37 +0000",
+      "enchanted_golden_apple": "2025-05-31 22:28:14 +0000",
       "cooked_mutton": "2025-05-29 23:28:12 +0000",
       "glow_berries": "2025-05-30 22:58:32 +0000",
       "cooked_beef": "2025-05-31 00:17:46 +0000",
@@ -3981,6 +3982,120 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-05-31 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_prior_robe_head": {
+    "criteria": {
+      "has_prior_robe_head": "2025-05-31 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/blaze_powder_from_smelting_fire_robe_legs": {
+    "criteria": {
+      "has_fire_robe_legs": "2025-05-31 22:38:26 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_blasting_ranger_armor_head": {
+    "criteria": {
+      "has_ranger_armor_head": "2025-05-31 22:42:39 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/blaze_powder_from_blasting_fire_robe_legs": {
+    "criteria": {
+      "has_fire_robe_legs": "2025-05-31 22:38:26 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_smelting_ranger_armor_head": {
+    "criteria": {
+      "has_ranger_armor_head": "2025-05-31 22:42:39 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_prior_robe_head": {
+    "criteria": {
+      "has_prior_robe_head": "2025-05-31 22:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-31 22:43:33 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_smelting_ranger_armor_legs": {
+    "criteria": {
+      "has_ranger_armor_legs": "2025-05-31 22:41:12 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_blasting_ranger_armor_feet": {
+    "criteria": {
+      "has_ranger_armor_feet": "2025-05-31 22:38:46 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_smelting_ranger_armor_feet": {
+    "criteria": {
+      "has_ranger_armor_feet": "2025-05-31 22:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-31 22:42:42 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_crusader_armor_chest": {
+    "criteria": {
+      "has_crusader_armor_chest": "2025-05-31 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-05-31 22:41:26 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_crusader_armor_chest": {
+    "criteria": {
+      "has_crusader_armor_chest": "2025-05-31 22:39:57 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/prismarine_shard_from_blasting_frost_robe_feet": {
+    "criteria": {
+      "has_frost_robe_feet": "2025-05-31 22:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-05-31 22:42:42 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_blasting_ranger_armor_legs": {
+    "criteria": {
+      "has_ranger_armor_legs": "2025-05-31 22:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-31 22:43:33 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/prismarine_shard_from_smelting_frost_robe_feet": {
+    "criteria": {
+      "has_frost_robe_feet": "2025-05-31 22:35:14 +0000"
     },
     "done": true
   },

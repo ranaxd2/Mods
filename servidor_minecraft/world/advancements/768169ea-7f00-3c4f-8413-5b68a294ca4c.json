@@ -3466,171 +3466,9 @@
     },
     "done": true
   },
-  "wizards:recipes/misc/gold_nugget_from_smelting_wand_arcane": {
-    "criteria": {
-      "has_wand_arcane": "2025-05-31 21:12:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2025-05-31 21:35:26 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/gold_nugget_from_blasting_golden_kite_shield": {
-    "criteria": {
-      "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_cast_fire_book": {
-    "criteria": {
-      "cast": "2025-05-31 21:26:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-05-31 20:56:46 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_cast_arcane_book": {
-    "criteria": {
-      "cast": "2025-05-31 21:24:00 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/gold_nugget_from_blasting_crusader_armor_feet": {
-    "criteria": {
-      "has_crusader_armor_feet": "2025-05-31 22:09:42 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:trade_archery": {
-    "criteria": {
-      "trade_with_archery_artisan": "2025-05-31 21:11:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-05-31 20:50:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 21:37:06 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_novice_fire": {
-    "criteria": {
-      "bind": "2025-05-31 21:24:50 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_novice_arcane": {
-    "criteria": {
-      "bind": "2025-05-31 21:21:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 21:37:06 +0000"
-    },
-    "done": true
-  },
-  "archers:recipes/misc/leather_from_blasting_archer_armor_head": {
-    "criteria": {
-      "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/gold_nugget_from_smelting_crusader_armor_feet": {
-    "criteria": {
-      "has_crusader_armor_feet": "2025-05-31 22:09:42 +0000"
-    },
-    "done": true
-  },
-  "paladins:recipes/misc/gold_nugget_from_smelting_golden_kite_shield": {
-    "criteria": {
-      "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-31 21:11:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smoking": {
-    "criteria": {
-      "has_dough": "2025-05-31 21:35:26 +0000"
-    },
-    "done": true
-  },
   "rpg_series:spell_cast_frost_book": {
     "criteria": {
       "cast": "2025-05-31 20:37:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-05-31 22:00:43 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/gold_nugget_from_blasting_wand_arcane": {
-    "criteria": {
-      "has_wand_arcane": "2025-05-31 21:12:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-05-31 20:50:44 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_cast_priest_book": {
-    "criteria": {
-      "cast": "2025-05-31 21:25:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:trade_wizard": {
-    "criteria": {
-      "trade_with_wizard": "2025-05-31 21:12:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2025-05-31 21:42:23 +0000"
     },
     "done": true
   },
@@ -3639,36 +3477,6 @@
       "in_better_spider_dungeon": "2025-05-31 20:48:11 +0000"
     },
     "done": false
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-05-31 21:59:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-05-31 20:50:44 +0000"
-    },
-    "done": true
-  },
-  "archers:recipes/misc/leather_from_smelting_archer_armor_head": {
-    "criteria": {
-      "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-05-31 21:52:50 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:spell_novice_priest": {
-    "criteria": {
-      "bind": "2025-05-31 21:25:02 +0000"
-    },
-    "done": true
   },
   "betterdungeons:spider_dungeon": {
     "criteria": {
@@ -3679,6 +3487,216 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-31 20:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-31 20:56:46 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_golden_kite_shield": {
+    "criteria": {
+      "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_golden_kite_shield": {
+    "criteria": {
+      "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:trade_archery": {
+    "criteria": {
+      "trade_with_archery_artisan": "2025-05-31 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_blasting_archer_armor_head": {
+    "criteria": {
+      "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_smelting_archer_armor_head": {
+    "criteria": {
+      "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:trade_wizard": {
+    "criteria": {
+      "trade_with_wizard": "2025-05-31 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/gold_nugget_from_smelting_wand_arcane": {
+    "criteria": {
+      "has_wand_arcane": "2025-05-31 21:12:37 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/gold_nugget_from_blasting_wand_arcane": {
+    "criteria": {
+      "has_wand_arcane": "2025-05-31 21:12:37 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_arcane": {
+    "criteria": {
+      "bind": "2025-05-31 21:21:53 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_arcane_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:24:00 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_fire": {
+    "criteria": {
+      "bind": "2025-05-31 21:24:50 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_priest": {
+    "criteria": {
+      "bind": "2025-05-31 21:25:02 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_priest_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:25:08 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_fire_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-05-31 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-05-31 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:37:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:37:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-31 21:37:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-31 21:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-31 21:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-31 21:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-31 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_crusader_armor_feet": {
+    "criteria": {
+      "has_crusader_armor_feet": "2025-05-31 22:09:42 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_crusader_armor_feet": {
+    "criteria": {
+      "has_crusader_armor_feet": "2025-05-31 22:09:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-31 22:47:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-31 22:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-31 22:50:33 +0000"
     },
     "done": true
   },

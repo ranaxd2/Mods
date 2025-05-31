@@ -1816,6 +1816,12 @@
     },
     "done": true
   },
+  "archers:recipes/misc/turtle_scute_from_blasting_ranger_armor_feet": {
+    "criteria": {
+      "has_ranger_armor_feet": "2025-05-31 22:47:35 +0000"
+    },
+    "done": true
+  },
   "wizards:recipes/misc/ender_pearl_from_blasting_arcane_robe_chest": {
     "criteria": {
       "has_arcane_robe_chest": "2025-05-31 21:42:23 +0000"
@@ -1879,6 +1885,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 20:23:33 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_smelting_ranger_armor_feet": {
+    "criteria": {
+      "has_ranger_armor_feet": "2025-05-31 22:47:35 +0000"
     },
     "done": true
   },

@@ -2619,6 +2619,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-05-31 22:44:14 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/cyan_portstone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
