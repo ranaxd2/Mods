@@ -1,0 +1,33 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-05-31 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-31 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2025-05-31 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-31 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-31 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

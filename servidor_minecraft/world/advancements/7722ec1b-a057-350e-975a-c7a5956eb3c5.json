@@ -679,6 +679,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-31 02:14:52 +0000",
       "minecraft:zombie": "2025-05-30 23:08:05 +0000"
     },
     "done": false
@@ -1330,6 +1331,18 @@
   "usefulbackpacks:recipes/backpack_large": {
     "criteria": {
       "has_medium_backpack": "2025-05-30 23:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-31 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-31 02:14:53 +0000"
     },
     "done": true
   },
