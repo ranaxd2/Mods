@@ -1063,6 +1063,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-05-30 01:07:14 +0000",
       "minecraft:beach": "2025-05-30 01:06:59 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-31 22:07:53 +0000",
       "minecraft:taiga": "2025-05-30 01:08:37 +0000",
       "minecraft:windswept_forest": "2025-05-29 23:08:42 +0000",
       "minecraft:jungle": "2025-05-30 00:36:19 +0000",
@@ -1151,6 +1152,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-30 00:46:03 +0000",
       "minecraft:skeleton": "2025-05-29 23:54:18 +0000",
+      "minecraft:phantom": "2025-05-31 21:47:52 +0000",
       "minecraft:vindicator": "2025-05-30 00:49:28 +0000",
       "minecraft:enderman": "2025-05-29 23:13:30 +0000",
       "minecraft:witch": "2025-05-30 00:52:18 +0000",
@@ -2705,9 +2707,99 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/iron_nugget_from_smelting_iron_great_hammer": {
+    "criteria": {
+      "has_iron_great_hammer": "2025-05-31 22:21:26 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_blasting_iron_great_hammer": {
+    "criteria": {
+      "has_iron_great_hammer": "2025-05-31 22:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-31 22:10:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-31 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-31 22:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-31 22:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-31 22:16:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-31 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-31 22:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-31 22:13:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-05-31 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-31 22:08:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:13:35 +0000"
     },
     "done": true
   },

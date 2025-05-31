@@ -3161,6 +3161,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "pasta_with_mutton_chop": "2025-05-31 21:42:23 +0000",
       "fish_stew": "2025-05-31 20:03:34 +0000"
     },
     "done": false
@@ -3501,6 +3502,12 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/gold_nugget_from_blasting_crusader_armor_feet": {
+    "criteria": {
+      "has_crusader_armor_feet": "2025-05-31 22:09:42 +0000"
+    },
+    "done": true
+  },
   "rpg_series:trade_archery": {
     "criteria": {
       "trade_with_archery_artisan": "2025-05-31 21:11:30 +0000"
@@ -3549,6 +3556,12 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/gold_nugget_from_smelting_crusader_armor_feet": {
+    "criteria": {
+      "has_crusader_armor_feet": "2025-05-31 22:09:42 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/gold_nugget_from_smelting_golden_kite_shield": {
     "criteria": {
       "has_golden_kite_shield": "2025-05-31 20:56:48 +0000"
@@ -3576,6 +3589,12 @@
   "rpg_series:spell_cast_frost_book": {
     "criteria": {
       "cast": "2025-05-31 20:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-31 22:00:43 +0000"
     },
     "done": true
   },
@@ -3609,11 +3628,23 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-31 21:42:23 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-05-31 20:48:11 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-31 21:59:53 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
@@ -3624,6 +3655,12 @@
   "archers:recipes/misc/leather_from_smelting_archer_armor_head": {
     "criteria": {
       "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-31 21:52:50 +0000"
     },
     "done": true
   },
