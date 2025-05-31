@@ -1498,6 +1498,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/blaze_powder_from_smelting_fire_robe_legs": {
+    "criteria": {
+      "has_fire_robe_legs": "2025-05-31 23:00:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 20:23:33 +0000"
@@ -1519,6 +1525,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-31 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/blaze_powder_from_blasting_fire_robe_legs": {
+    "criteria": {
+      "has_fire_robe_legs": "2025-05-31 23:00:01 +0000"
     },
     "done": true
   },
@@ -1768,6 +1780,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/ender_pearl_from_smelting_arcane_robe_legs": {
+    "criteria": {
+      "has_arcane_robe_legs": "2025-05-31 23:08:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-31 22:07:06 +0000"
@@ -1918,6 +1936,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/ender_pearl_from_blasting_arcane_robe_legs": {
+    "criteria": {
+      "has_arcane_robe_legs": "2025-05-31 23:08:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-31 22:02:31 +0000"
@@ -1939,6 +1963,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-31 23:10:37 +0000"
     },
     "done": true
   },
@@ -2041,6 +2071,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-31 22:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-05-31 23:10:37 +0000"
     },
     "done": true
   },

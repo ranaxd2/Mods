@@ -1551,3 +1551,15 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 [22:54:32] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=9, y=-59, z=116}
 [22:54:32] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=9, y=-58, z=116}
 [22:55:33] [Server thread/INFO]: GHOST fell from a high place
+[22:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:59:03] [Server thread/INFO]: GHOST lost connection: Timed out
+[22:59:03] [Server thread/INFO]: GHOST left the game
+[22:59:52] [Server thread/INFO]: GHOST[/127.243.98.80:51373] logged in with entity id 407950 at (-1760.7579380637796, 148.1661092609382, -121.19654243202497)
+[22:59:52] [Server thread/INFO]: GHOST joined the game
+[23:01:40] [Server thread/INFO]: _Jhoo_ has made the advancement [Under Lock and Key]
+[23:04:56] [Server thread/INFO]: Ph8l1femo has made the advancement [Under Lock and Key]
+[23:13:54] [Server thread/INFO]: [Not Secure] <zTJonDMiel> met
+[23:14:03] [Server thread/INFO]: [Not Secure] <zTJonDMiel> escribele a lenin
+[23:14:16] [Server thread/INFO]: [Not Secure] <GHOST> q fue
+[23:14:56] [Server thread/INFO]: GHOST was slain by _Angelplay_
+[23:15:09] [Server thread/INFO]: [Not Secure] <_Angelplay_> que trucha fue xdddddddd

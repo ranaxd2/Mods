@@ -379,8 +379,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-05-31 22:58:01 +0000",
       "minecraft:skeleton": "2025-05-30 00:17:59 +0000",
+      "minecraft:breeze": "2025-05-31 23:01:18 +0000",
       "minecraft:enderman": "2025-05-30 22:38:52 +0000",
+      "minecraft:stray": "2025-05-31 22:56:58 +0000",
       "minecraft:witch": "2025-05-30 22:52:31 +0000",
       "minecraft:spider": "2025-05-30 22:31:18 +0000",
       "minecraft:zombie": "2025-05-29 23:08:09 +0000",
@@ -610,6 +613,7 @@
       "minecraft:jungle": "2025-05-29 23:19:02 +0000",
       "minecraft:birch_forest": "2025-05-30 22:56:48 +0000",
       "minecraft:windswept_hills": "2025-05-30 01:26:37 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-31 22:53:23 +0000",
       "minecraft:windswept_savanna": "2025-05-30 22:41:44 +0000",
       "minecraft:jagged_peaks": "2025-05-30 23:21:48 +0000"
     },
@@ -2397,9 +2401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-05-31 21:28:34 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_prior_robe_head": {
+    "criteria": {
+      "has_prior_robe_head": "2025-05-31 23:07:05 +0000"
     },
     "done": true
   },
@@ -2409,9 +2425,81 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/iron_nugget_from_smelting_iron_great_hammer": {
+    "criteria": {
+      "has_iron_great_hammer": "2025-05-31 23:01:43 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_blasting_iron_great_hammer": {
+    "criteria": {
+      "has_iron_great_hammer": "2025-05-31 23:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-31 22:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_blasting_ranger_armor_head": {
+    "criteria": {
+      "has_ranger_armor_head": "2025-05-31 22:56:10 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/netherite_scrap_from_smelting_netherite_longbow": {
+    "criteria": {
+      "has_netherite_longbow": "2025-05-31 23:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_holy_wand": {
+    "criteria": {
+      "has_holy_wand": "2025-05-31 22:56:12 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_smelting_paladin_armor_feet": {
+    "criteria": {
+      "has_paladin_armor_feet": "2025-05-31 23:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/magenta_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_smelting_ranger_armor_head": {
+    "criteria": {
+      "has_ranger_armor_head": "2025-05-31 22:56:10 +0000"
     },
     "done": true
   },
@@ -2421,9 +2509,27 @@
     },
     "done": true
   },
+  "archers:recipes/misc/netherite_scrap_from_blasting_netherite_longbow": {
+    "criteria": {
+      "has_netherite_longbow": "2025-05-31 23:06:59 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_prior_robe_head": {
+    "criteria": {
+      "has_prior_robe_head": "2025-05-31 23:07:05 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/light_blue_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:59:18 +0000"
     },
     "done": true
   },
@@ -2451,6 +2557,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-31 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-31 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-31 22:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/lime_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2463,6 +2599,12 @@
     },
     "done": true
   },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_head": {
+    "criteria": {
+      "has_wizard_robe_head": "2025-05-31 22:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-31 21:35:19 +0000"
@@ -2472,6 +2614,18 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-05-31 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_smelting_archer_armor_feet": {
+    "criteria": {
+      "has_archer_armor_feet": "2025-05-31 23:07:02 +0000"
     },
     "done": true
   },
@@ -2496,6 +2650,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-31 22:55:21 +0000"
     },
     "done": true
   },
@@ -2541,9 +2701,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-31 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-31 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-31 23:01:19 +0000"
     },
     "done": true
   },
@@ -2559,6 +2749,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-31 21:01:29 +0000"
@@ -2571,9 +2773,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-31 22:57:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-05-31 21:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-31 22:55:21 +0000"
     },
     "done": true
   },
@@ -2595,6 +2809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/red_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2607,9 +2827,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-31 22:57:24 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/purple_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/iron_nugget_from_blasting_paladin_armor_feet": {
+    "criteria": {
+      "has_paladin_armor_feet": "2025-05-31 23:02:15 +0000"
     },
     "done": true
   },
@@ -2622,6 +2854,12 @@
   "farmersdelight:recipes/food/hamburger": {
     "criteria": {
       "has_beef_patty": "2025-05-31 22:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
     },
     "done": true
   },
@@ -2640,6 +2878,18 @@
   "waystones:recipes/decorations/green_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-31 22:55:21 +0000"
     },
     "done": true
   },
@@ -2691,6 +2941,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-31 23:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/blue_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2703,9 +2965,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-31 22:55:21 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/mossy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-31 22:55:21 +0000"
     },
     "done": true
   },
@@ -2715,9 +3001,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-31 22:57:37 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-05-31 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-31 22:55:21 +0000"
     },
     "done": true
   },
@@ -2745,6 +3043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-31 23:03:35 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/orange_portstone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2769,6 +3073,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/leather_from_blasting_archer_armor_feet": {
+    "criteria": {
+      "has_archer_armor_feet": "2025-05-31 23:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/blackstone_waystone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2781,15 +3109,33 @@
     },
     "done": true
   },
+  "archers:recipes/misc/redstone_from_blasting_rapid_crossbow": {
+    "criteria": {
+      "has_rapid_crossbow": "2025-05-31 23:02:36 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/pink_portstone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-31 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-31 22:57:24 +0000"
     },
     "done": true
   },
@@ -2805,9 +3151,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-31 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_holy_wand": {
+    "criteria": {
+      "has_holy_wand": "2025-05-31 22:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-31 22:56:06 +0000"
     },
     "done": true
   },
@@ -2823,6 +3205,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-31 23:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/sandy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2835,9 +3235,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-31 22:55:21 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/light_gray_portstone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_head": {
+    "criteria": {
+      "has_wizard_robe_head": "2025-05-31 22:56:10 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/redstone_from_smelting_rapid_crossbow": {
+    "criteria": {
+      "has_rapid_crossbow": "2025-05-31 23:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-31 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-05-31 23:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-31 23:02:21 +0000"
     },
     "done": true
   },
