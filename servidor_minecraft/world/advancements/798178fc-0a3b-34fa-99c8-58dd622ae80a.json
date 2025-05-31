@@ -1576,6 +1576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 21:26:51 +0000"
+    },
+    "done": true
+  },
   "paladins:recipes/misc/gold_nugget_from_blasting_prior_robe_chest": {
     "criteria": {
       "has_prior_robe_chest": "2025-05-31 21:12:57 +0000"
@@ -1672,6 +1678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 21:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 20:23:33 +0000"
@@ -1732,6 +1744,12 @@
     },
     "done": true
   },
+  "archers:recipes/misc/turtle_scute_from_smelting_ranger_armor_legs": {
+    "criteria": {
+      "has_ranger_armor_legs": "2025-05-31 21:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-31 20:17:47 +0000"
@@ -1783,6 +1801,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_crusader_armor_head": {
+    "criteria": {
+      "has_crusader_armor_head": "2025-05-31 21:19:41 +0000"
     },
     "done": true
   },
@@ -1840,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 21:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 20:17:59 +0000"
@@ -1864,9 +1894,21 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/gold_nugget_from_smelting_crusader_armor_head": {
+    "criteria": {
+      "has_crusader_armor_head": "2025-05-31 21:19:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/turtle_scute_from_blasting_ranger_armor_legs": {
+    "criteria": {
+      "has_ranger_armor_legs": "2025-05-31 21:20:35 +0000"
     },
     "done": true
   },

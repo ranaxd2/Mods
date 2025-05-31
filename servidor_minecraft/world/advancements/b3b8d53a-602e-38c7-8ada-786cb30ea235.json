@@ -2397,6 +2397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-31 21:28:34 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/black_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2433,6 +2439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/lime_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2442,6 +2454,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-31 21:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
     },
     "done": true
   },
@@ -2481,6 +2499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/lime_portstone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2505,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-31 21:28:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-31 21:01:29 +0000"
@@ -2523,9 +2553,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-31 21:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/end_stone_waystone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-31 21:28:50 +0000"
     },
     "done": true
   },
@@ -2577,6 +2625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-31 21:01:29 +0000"
@@ -2607,9 +2661,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-31 21:28:50 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/mossy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-31 21:22:35 +0000"
     },
     "done": true
   },
@@ -2625,6 +2697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/green_portstone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
@@ -2637,9 +2715,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-31 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-31 21:22:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-31 21:28:33 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/blackstone_waystone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 21:19:16 +0000"
     },
     "done": true
   },
@@ -2649,9 +2751,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-31 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 21:26:15 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/pink_sharestone": {
     "criteria": {
       "has_warp_stone": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 21:19:16 +0000"
     },
     "done": true
   },

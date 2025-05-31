@@ -183,7 +183,8 @@
     "criteria": {
       "bread": "2025-05-30 01:57:26 +0000",
       "cooked_mutton": "2025-05-30 02:07:00 +0000",
-      "glow_berries": "2025-05-31 21:15:46 +0000"
+      "glow_berries": "2025-05-31 21:15:46 +0000",
+      "mushroom_stew": "2025-05-31 21:25:45 +0000"
     },
     "done": false
   },
@@ -808,6 +809,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-31 21:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 21:08:41 +0000"
@@ -844,6 +851,12 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/gold_nugget_from_blasting_golden_kite_shield": {
+    "criteria": {
+      "has_golden_kite_shield": "2025-05-31 21:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-31 20:59:59 +0000"
@@ -865,6 +878,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-31 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-31 21:23:01 +0000"
     },
     "done": true
   },
@@ -928,9 +947,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 21:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-05-31 21:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-31 21:23:01 +0000"
     },
     "done": true
   },
@@ -964,9 +995,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-31 21:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 21:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 21:28:13 +0000"
     },
     "done": true
   },
@@ -1060,6 +1103,12 @@
     },
     "done": true
   },
+  "paladins:recipes/misc/gold_nugget_from_smelting_golden_kite_shield": {
+    "criteria": {
+      "has_golden_kite_shield": "2025-05-31 21:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 21:08:41 +0000"
@@ -1096,6 +1145,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-31 21:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 21:00:03 +0000"
@@ -1114,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 21:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 21:08:41 +0000"
@@ -1123,6 +1184,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 21:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 21:28:13 +0000"
     },
     "done": true
   },
@@ -1240,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 21:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 21:04:55 +0000"
@@ -1252,6 +1325,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-31 21:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 21:08:41 +0000"
@@ -1261,6 +1340,18 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-05-31 21:01:18 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_blasting_golden_great_hammer": {
+    "criteria": {
+      "has_golden_great_hammer": "2025-05-31 21:22:57 +0000"
+    },
+    "done": true
+  },
+  "paladins:recipes/misc/gold_nugget_from_smelting_golden_great_hammer": {
+    "criteria": {
+      "has_golden_great_hammer": "2025-05-31 21:22:57 +0000"
     },
     "done": true
   },
@@ -1279,6 +1370,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-31 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 21:28:13 +0000"
     },
     "done": true
   },
@@ -1344,7 +1441,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_cold_ocean": "2025-05-31 21:20:11 +0000",
+      "minecraft:cold_ocean": "2025-05-31 21:19:43 +0000",
       "minecraft:beach": "2025-05-31 21:18:19 +0000",
+      "minecraft:mushroom_fields": "2025-05-31 21:24:38 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-31 21:21:32 +0000",
       "minecraft:river": "2025-05-31 21:16:26 +0000",
       "minecraft:lush_caves": "2025-05-31 21:03:29 +0000",
       "minecraft:windswept_hills": "2025-05-31 21:18:16 +0000"
@@ -1393,6 +1494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-31 21:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-31 20:59:50 +0000"
@@ -1402,6 +1509,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 21:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 21:28:13 +0000"
     },
     "done": true
   },

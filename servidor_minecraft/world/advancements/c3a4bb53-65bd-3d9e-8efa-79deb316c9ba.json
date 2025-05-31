@@ -3924,5 +3924,47 @@
     },
     "done": true
   },
+  "rpg_series:spell_cast_fire_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:26:23 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_fire": {
+    "criteria": {
+      "book": "2025-05-31 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_fire": {
+    "criteria": {
+      "bind": "2025-05-31 21:24:02 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_frost": {
+    "criteria": {
+      "bind": "2025-05-31 21:23:57 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_frost": {
+    "criteria": {
+      "book": "2025-05-31 21:23:53 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_priest_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:27:53 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_priest": {
+    "criteria": {
+      "bind": "2025-05-31 21:23:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

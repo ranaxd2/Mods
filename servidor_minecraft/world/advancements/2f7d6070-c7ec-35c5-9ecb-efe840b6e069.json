@@ -1709,9 +1709,28 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 21:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 21:03:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-05-31 21:22:43 +0000",
+      "glow_berries": "2025-05-31 21:20:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-31 21:22:39 +0000"
     },
     "done": true
   },
@@ -1883,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 21:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-31 19:52:18 +0000"
@@ -1910,6 +1935,12 @@
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-05-31 19:27:38 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:trade_wizard": {
+    "criteria": {
+      "trade_with_wizard": "2025-05-31 21:21:57 +0000"
     },
     "done": true
   },

@@ -2618,6 +2618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-31 21:25:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-05-31 20:57:33 +0000"
@@ -2639,6 +2645,12 @@
   "waystones:recipes/decorations/blank_scroll": {
     "criteria": {
       "has_paper": "2025-05-31 20:44:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 21:25:00 +0000"
     },
     "done": true
   },

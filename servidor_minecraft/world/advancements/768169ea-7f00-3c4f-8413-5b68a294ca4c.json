@@ -3477,9 +3477,21 @@
     },
     "done": true
   },
+  "rpg_series:spell_cast_fire_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-31 20:56:46 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_arcane_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:24:00 +0000"
     },
     "done": true
   },
@@ -3492,6 +3504,18 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-31 20:50:44 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_fire": {
+    "criteria": {
+      "bind": "2025-05-31 21:24:50 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_arcane": {
+    "criteria": {
+      "bind": "2025-05-31 21:21:53 +0000"
     },
     "done": true
   },
@@ -3531,6 +3555,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_cast_priest_book": {
+    "criteria": {
+      "cast": "2025-05-31 21:25:08 +0000"
+    },
+    "done": true
+  },
   "rpg_series:trade_wizard": {
     "criteria": {
       "trade_with_wizard": "2025-05-31 21:12:07 +0000"
@@ -3552,6 +3582,12 @@
   "archers:recipes/misc/leather_from_smelting_archer_armor_head": {
     "criteria": {
       "has_archer_armor_head": "2025-05-31 21:11:49 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_priest": {
+    "criteria": {
+      "bind": "2025-05-31 21:25:02 +0000"
     },
     "done": true
   },
